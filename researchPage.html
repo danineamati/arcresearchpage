@@ -20,7 +20,7 @@
 			<h2>ARC Research Page</h2> <hr>
 			<h3>Current Opportunities</h3> <hr>
 			<div class="oppTable">
-				<p>EXAMPLE RESEARCH OPPORTUNITY!!! NOT THROUGH JS.</p>
+				<p id="opps">EXAMPLE RESEARCH OPPORTUNITY!!! NOT THROUGH JS.</p>
 			</div>
 			
 
@@ -95,7 +95,8 @@
 							tag.append(
 							$('<input>')
 								.attr({
-									type: "checkbox"
+									type: "checkbox",
+									onclick: "clicked()"
 								})
 							)
 
@@ -117,6 +118,10 @@
 					}
 				}
 			};
+			function clicked(){
+				document.getElementById("opps").innerHTML = "new text";
+			}
+
 			xhttp.open("GET", "divisionDatabase.json", true);
 			xhttp.send();
 		</script>
