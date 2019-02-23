@@ -1,0 +1,111 @@
+<!-- ARC Research Page-->
+
+<!DOCTYPE html>
+<html>
+<head>
+	<title>ARC Research Page</title>
+	<link rel="stylesheet" type="text/css" href="style.css">
+	<script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+</head>
+
+<div class = "container">
+	<body>
+		
+		<div class="nav">
+			<h3>Choose a department:</h3>
+			<form id="divisions"></form>
+		</div>
+
+		<div class="main">
+			<h2>ARC Research Page</h2> <hr>
+			<h3>Current Opportunities</h3> <hr>
+			<div class="oppTable">
+				<p>EXAMPLE RESEARCH OPPORTUNITY!!! NOT THROUGH JS.</p>
+			</div>
+			
+
+			<hr>
+			<p>
+				Site in progress. Let us know if there is an issue! Visit the ARC
+				website for more information: 
+				<a href="https://sites.google.com/site/arccaltech">arc.caltech.edu</a>. 
+			</p>
+			<p>Created by Tarini Singh and Daniel Neamati.</p>
+
+		</div>
+		
+		<hr>
+
+		
+		<script>
+			const divisions = [
+				{
+					name:"Engineering and Applied Science", 
+					link:"http://eas.caltech.edu/",
+					departments: [
+						{
+							name:"Aerospace", 
+							link: "http://www.galcit.caltech.edu/"
+						},
+						{	
+							name:"Applied Physics and Material Science",
+							link: "http://aphms.caltech.edu/"
+						},
+						{
+							name:"Computing and Mathematical Sciences",
+							link: "http://cms.caltech.edu/"
+						},
+						{
+							name:"Electrical Engineering",
+							link:"http://ee.caltech.edu/"
+						},
+						{
+							name:"Environmental Science and Engineering",
+							link:"http://ese.caltech.edu/"
+						},
+						{
+							name:"Mechanical and Civil Engineering",
+							link:"http://mce.caltech.edu/"
+						}
+					]
+				}
+			]
+			const tag = $("#divisions")
+
+			// First we will display the divisions (e.g. EAS)
+			for (const divis of divisions) {
+				tag.append(
+					$('<a>')
+						.attr({
+							href: divis.link, 
+							target: "_blank", 
+							rel: "noopener noreferrer"
+						})
+						.text(divis.name)
+					)
+				tag.append($('<br>'))
+
+				// Each division has departments within it
+				for (const dept of divis.departments) {
+					tag.append(
+					$('<input>')
+						.attr({
+							type: "checkbox"
+						})
+					)
+					tag.append(
+					$('<a>')
+						.attr({
+							href: dept.link, 
+							target: "_blank", 
+							rel: "noopener noreferrer"
+						})
+						.text(dept.name)
+					)
+					tag.append($('<br>'))
+				}
+			}
+		</script>
+	</body>
+</div>
+</html>
