@@ -31,7 +31,17 @@
 {
 	"name": "Chemistry and Chemical Engineering",
 	"link": "http://cce.caltech.edu/",
-	"departments": []
+	"departments": [
+		{
+			"name": "Biochemistry and Molecular Biophysics"
+		},
+		{
+			"name": "Chemistry"
+		},
+		{
+			"name": "Chemical Engineering"
+		}
+	]
 },
 {
 	"name": "Engineering and Applied Science", 
@@ -66,17 +76,64 @@
 {
 	"name": "Geological and Planetary Sciences",
 	"link": "http://www.gps.caltech.edu/",
-	"departments": []
+	"departments": [
+		{
+			"name": "Geology",
+			"link": "http://web.gps.caltech.edu/options/geology/"
+		},
+		{
+			"name": "Geobiology",
+			"link": "http://web.gps.caltech.edu/options/geobiology/"
+		},
+		{
+			"name": "Geochemistry",
+			"link": "http://web.gps.caltech.edu/options/geochemistry/"
+		},
+		{
+			"name": "Geophysics",
+			"link": "http://www.seismolab.caltech.edu/research.html"
+		},
+		{
+			"name": "Planetary Sciences",
+			"link": "http://web.gps.caltech.edu/options/planetary/"
+		},
+		{
+			"name": "Environmental Science and Engineering",
+			"link": "http://www.ese.caltech.edu/"
+		}
+	]
 },
 {
 	"name": "Humanities and Social Sciences",
 	"link": "http://www.hss.caltech.edu/",
-	"departments": []
+	"departments": [
+		{
+			"name": "Humanities",
+			"link": "http://www.hss.caltech.edu/research/humanities-research/research-areas"
+		},
+		{
+			"name": "Social Sciences",
+			"link": "http://www.hss.caltech.edu/research/social-sciences-research/research-areas"
+		}
+	]
 },
 {
 	"name": "Physics, Mathematics, and Astronomy",
 	"link": "http://www.pma.caltech.edu/",
-	"departments": []
+	"departments": [
+		{
+			"name": "Physics",
+			"link": "http://www.pma.caltech.edu/research-and-academics/physics/physics-research"
+		},
+		{
+			"name": "Mathematics",
+			"link": "http://www.pma.caltech.edu/research-and-academics/mathematics/math-research"
+		},
+		{
+			"name": "Astronomy",
+			"link": "http://www.astro.caltech.edu/research/"
+		}
+	]
 }
 
 
