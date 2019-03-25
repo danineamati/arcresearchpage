@@ -20,7 +20,18 @@
 		},
 		{
 			"name": "Neuroscience",
-			"link": "http://www.bbe.caltech.edu/research/neuroscience"
+			"link": "http://www.bbe.caltech.edu/research/neuroscience",
+			"faculty": [
+				{
+				  "name":"Ralph Adolphs",
+				  "email":"radolphs@hss.caltech.edu",
+				  "other_depts":"Psychology",
+				  "accepting":"Yes",
+				  "studentYears":"Sophomore, Junior, Senior",
+				  "requirements":"Strong programming background",
+				  "opportunities":"Participate in cognitive neuroscience research. Analysis of fMRI data, eye tracking data, causal discovery algorithm development, variety of brain imaging projects in which to participate. Also studies in people with specific brain lesions, and in patients with autism."
+				}
+			]
 		},
 		{
 			"name": "Systems Biology",
@@ -81,7 +92,13 @@
 						"prosthetic devices.  ",
 						"Theoretical foundations with practical applications ",
 						"to human inspired bipedal walking."
+					],
+					"Students": [
+						"Jane Doe (2019): jdoe@caltech.edu"
 					]
+				},
+				{
+
 				}
 			]
 		}
