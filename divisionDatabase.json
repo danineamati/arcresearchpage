@@ -69,7 +69,21 @@
 		},
 		{
 			"name":"Mechanical and Civil Engineering",
-			"link":"http://mce.caltech.edu/"
+			"link":"http://mce.caltech.edu/",
+			"faculty": [
+				{
+					"name":"Aaron Ames",
+					"other_depts":"Control and Dynamical Systems",
+					"Interests": [
+						"Bipdal robotics, ",
+						"hybrid systems, ",
+						"Zeno behavior, ",
+						"prosthetic devices.  ",
+						"Theoretical foundations with practical applications ",
+						"to human inspired bipedal walking."
+					]
+				}
+			]
 		}
 	]
 },

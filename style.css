@@ -39,6 +39,7 @@ p {
 .profName {
 	/*background-color: #ffffff;*/
 	width: 49%;
+	margin-bottom: -20px;
 }
 
 .profDepts {

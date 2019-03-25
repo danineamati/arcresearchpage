@@ -24,6 +24,9 @@
 // run "npm install -g live-server"
 // To actually run the server, "live-server"
 
+
+// First we want to load the navigation bar...
+
 // Basic code fore XMLHTTP Request is from W3 School
 var xhttp = new XMLHttpRequest();
 xhttp.onreadystatechange = function() {
@@ -80,9 +83,14 @@ xhttp.onreadystatechange = function() {
 		}
 	}
 };
-function clicked(){
-	document.getElementById("opps").innerHTML = "new text";
-}
 
 xhttp.open("GET", "divisionDatabase.json", true);
 xhttp.send();
+
+
+
+// Now we can deal with the display cards
+
+function clicked(){
+	document.getElementById("opps").innerHTML = "new text";
+}
