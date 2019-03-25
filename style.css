@@ -2,7 +2,16 @@
 
 h2 {
 	text-align: center;
+}
 
+p {
+	font-size: 10px
+}
+
+.container {
+	display: flex;
+	font-family: Verdana;
+	height: 1400px;
 }
 
 /* This is for the table of opportunities */
@@ -17,16 +26,28 @@ h2 {
 .dispCard {
 	background-color: #e5e0d5;
 	border-radius: 10px;
-	/*border-width: 5px;*/
 	border-style: solid;
+	padding-left: 5px;
+	padding-right: 5px;
+	margin-bottom: 5px;
 }
 
-.container {
+.topLine {
 	display: flex;
-	font-family: Verdana;
-	height: 1400px;
 }
 
+.profName {
+	/*background-color: #ffffff;*/
+	width: 49%;
+}
+
+.profDepts {
+	/*background-color: #8bef9d;*/
+	width: 49%;
+	text-align: right;
+}
+
+/* This is for the navigation bar on the left*/
 .nav {
 	flex: 1;
 	padding-top: 20px;
@@ -39,6 +60,7 @@ h2 {
 .nav a {
 	color: black;
 	text-decoration: none;
+	font-size: 12px;
 }
 
 .nav a:hover {
