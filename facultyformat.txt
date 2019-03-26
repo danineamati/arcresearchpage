@@ -1,23 +1,4 @@
-Aaron AmesRalph Adolphs
-{  "name":Ralph Adolphs  "email":radolphs@hss.caltech.edu  "other_depts":Psychology  "accepting":Yes  "studentYears":Sophomore, Junior, Senior  "requirements":Strong programming background  "opportunities":Participate in cognitive neuroscience research. Analysis of fMRI data, eye tracking data, causal discovery algorithm development, variety of brain imaging projects in which to participate. Also studies in people with specific brain lesions, and in patients with autism.}
-
-{  "name":Ralph Adolphs,
-  "email":radolphs@hss.caltech.edu,
-  "other_depts":Psychology,
-  "accepting":Yes,
-  "studentYears":Sophomore, Junior, Senior,
-  "requirements":Strong programming background,
-  "opportunities":Participate in cognitive neuroscience research. Analysis of fMRI data, eye tracking data, causal discovery algorithm development, variety of brain imaging projects in which to participate. Also studies in people with specific brain lesions, and in patients with autism.}
-
-{
-  "name":Ralph Adolphs,
-  "email":radolphs@hss.caltech.edu,
-  "other_depts":Psychology,
-  "accepting":Yes,
-  "studentYears":Sophomore, Junior, Senior,
-  "requirements":Strong programming background,
-  "opportunities":Participate in cognitive neuroscience research. Analysis of fMRI data, eye tracking data, causal discovery algorithm development, variety of brain imaging projects in which to participate. Also studies in people with specific brain lesions, and in patients with autism.
-}
+// Biology & Biological Engineering
 
 {
   "name":"Ralph Adolphs",
@@ -26,5 +7,126 @@ Aaron AmesRalph Adolphs
   "accepting":"Yes",
   "studentYears":"Sophomore, Junior, Senior",
   "requirements":"Strong programming background",
+  "students":["Stephen Dolbier"]
   "opportunities":"Participate in cognitive neuroscience research. Analysis of fMRI data, eye tracking data, causal discovery algorithm development, variety of brain imaging projects in which to participate. Also studies in people with specific brain lesions, and in patients with autism."
+},
+
+{
+  "name":"David J. Anderson",
+  "email":"wuwei@caltech.edu",
+  "other_depts":"Neuroscience",
+  "accepting":"Yes",
+  "studentYears":"Sophomore, Junior, Senior",
+  "requirements":"Biology or related field major",
+  "students":["May Hui"]
+  "opportunities":"We have several projects in the lab involving the study of brain neural circuitry relating to behavior and emotion. Students are encouraged to visit the Anderson lab website http://davidandersonlab.caltech.edu "
+},
+
+{
+  "name":"Elizabeth Hong",
+  "email":"ejhong@caltech.edu",
+  "other_depts":"Neuroscience",
+  "accepting":"Yes",
+  "studentYears":"Freshman, Sophomore, Junior, Senior",
+  "requirements":"Strong intellectual curiosity, motivation, and follow-through",
+  "students":["Asta Wu"],
+  "opportunities":"Our lab studies the synaptic and circuit basis of odor processing in fruit flies. Current projects include mapping isointense odor stimuli in the fly antenna using extracellular electrophysiology, evaluating the impact of neural activity on mitochondrial localization in neuronal arbors, quantitative measurements of perceptual thresholds for odor discrimination and demixing, and developing computational models of neural representations of odor that can make predictions about odor-guided behaviors."
+},
+
+{
+  "name":"Richard Murray",
+  "email":"murray@caltech.edu",
+  "other_depts":"Control and Dynamical Systems",
+  "accepting":"Yes",
+  "studentYears":"Freshman, Sophomore, Junior, Senior",
+  "requirements":"Background either in molecular biology (with lab experience), formal methods in computer science (aka CS 118/119, CS 142), or robotics (CS/ME 132).",
+  "students":["Gloria Ha", "Arjun Bose", "Nikhil Gupta"],
+  "opportunities":"Multiple projects available, either in synthetic biology or reactive protocols for safety critical systems.  See projects listed at http://www.cds.caltech.edu/~murray."
+},
+
+{
+  "name":"Niles Pierce",
+  "email":"niles@caltech.edu",
+  "other_depts":"Applied and Computational Mathematics",
+  "accepting":"Yes",
+  "studentYears":"(no response)",
+  "requirements":"(Bi 8 and Bi 10) or (Bi 1x) and one summer of wet lab experience; independent, resourceful, creative, motivated; interested in inventing, developing, and validating breakthrough technologies",
+  "students":["(no response)"],
+  "opportunities":"Develop programmable molecular technologies for imaging the programmable molecules of life (DNA, RNA, protein)"
+},
+
+{
+  "name":"David Prober",
+  "email":"dprober@caltech.edu",
+  "other_depts":"None",
+  "accepting":"Yes",
+  "studentYears":"Freshman, Sophomore, Junior, Senior",
+  "requirements":"Introductory biology course required, genetics or neuroscience course preferred.",
+  "students":["Young Hong", "Sarah Hou"],
+  "opportunities":"Research opportunities (for credit) include working with graduate students and postdocs to study genes and neurons that regulate sleep. Projects involve molecular and behavioral neuroscience, genetics, and molecular biology (PCR, cloning, genotyping). Paid opportunities are available for feeding zebrafish on weekends."
+},
+
+{
+  "name":"Angela Stathopoulos",
+  "email":"angelike@caltech.edu",
+  "other_depts":"None",
+  "accepting":"Yes",
+  "studentYears":"Freshman, Sophomore, Junior, Senior",
+  "requirements":"Previous research experience preferred but not required",
+  "students":["Hsuan-Te (Miriam) Sun"],
+  "opportunities":"Research opportunities (volunteer or for credit) include molecular biology (PCR, cloning) as well as Drosophila genetic experiments. Paid opportunities (work-study) involve fruit fly stock maintenance/stock reagent preparation."
+},
+
+{
+  "name":"Rebecca Voorhees",
+  "email":"voorhees@caltech.edu",
+  "other_depts":"Heritage Medical Research Institute",
+  "accepting":"Yes",
+  "studentYears":"Sophomore, Junior, Senior",
+  "requirements":"It would be useful for students to have taken basic biology and biochemistry courses such that they are familiar with the theory behind cloning and protein expression. ",
+  "students":["(no response)"],
+  "opportunities":"Undergraduates will begin in the lab by assisting a postdoc or graduate student with cloning, protein expression, biochemical assays, and structural analysis (including cryo-electron microscopy). After a period of training, enthusiastic and motivated students will have the opportunity to work independently on a project chosen through discussion with the PI."
 }
+
+// Chemistry & Chemical Engineering
+
+{
+  "name":"Theodor Agapie",
+  "email":"agapie@caltech.edu",
+  "other_depts":"None",
+  "accepting":"Yes",
+  "studentYears":"Freshman, Sophomore, Junior, Senior",
+  "requirements":"Motivation, desire to learn and to take ownership of a project",
+  "students":["Paige Gannon", "Chris Lamartina", "Ruomeng Wan", "Sophie Whitmeyer", "Vidhya Dev", "Matthew Zeitlin"],
+  "opportunities":"Inorganic chemistry"
+},
+{
+  "name":"Thomas Miller",
+  "email":"tfm@caltech.edu",
+  "other_depts":"None",
+  "accepting":"Yes",
+  "studentYears":"Freshman, Sophomore, Junior, Senior",
+  "requirements":"The Ch21 series, although some exceptions are possible",
+  "students":["Collin Davda", "Naveen Arunachalam"],
+  "opportunities":"Project dependent. Coding interest/experience needed."
+},
+{
+  "name":"Alison Ondrus",
+  "email":"aondrus@caltech.edu",
+  "other_depts":"None",
+  "accepting":"Yes",
+  "studentYears":"Freshman, Sophomore, Junior, Senior",
+  "requirements":"Self-motivation, creativity",
+  "students":["Alexa Lauinger", "Amanda Li", "Christie Huang"],
+  "opportunities":"Mutagenesis, protein expression, and molecular modeling.  You will work alongside a postdoc on an exciting new project in the lab."
+},
+{
+  "name":"Shu-ou Shan",
+  "email":"sshan@caltech.edu",
+  "other_depts":"None",
+  "accepting":"Yes",
+  "studentYears":"Sophomore, Junior, Senior",
+  "requirements":"Introductory Biology, analytical chemistry, and introductory molecular biology class",
+  "students":["Woo Jun (Richard) Shim", "Emily Miaou"],
+  "opportunities":"Protein biochemistry, molecular cell biology, and quantitative fluorescence spectroscopy"
+},

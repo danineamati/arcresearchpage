@@ -6,8 +6,9 @@ other_depts = input("Other Departments: ")
 accepting = input("Is faculty currently accepting? [Yes/No] ")
 studentYears = input("studentYears: ")
 requirements = input("requirements: ")
-opportunities = input("Input faculty opportunities: ")
 students = input("students: ")
+opportunities = input("Input faculty opportunities: ")
+
 
 
 with open("facultyformat.txt", "a") as file:
@@ -18,6 +19,8 @@ with open("facultyformat.txt", "a") as file:
 	file.write(',\n  "accepting":"{}"'.format(accepting))
 	file.write(',\n  "studentYears":"{}"'.format(studentYears))
 	file.write(',\n  "requirements":"{}"'.format(requirements))
+	studNames = students.split(', ')
+	file.write(',\n  "students":["' + '", "'.join(studNames) + '"]')
 	file.write(',\n  "opportunities":"{}"'.format(opportunities))
-	file.write("\n}\n")
+	file.write("\n},")
 
