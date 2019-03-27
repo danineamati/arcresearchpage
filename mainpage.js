@@ -106,7 +106,8 @@ xhttp.send();
 
 // "Fake Class for testing"
 class singleProf {
-	constructor(name, email, depts, accepting, studentYears, requirements) {
+	constructor(name, email, depts, accepting,
+	studentYears, requirements, students, opportunities) {
 		if (name != undefined) {this.name = name} 
 			else {this.name = "Not Listed"};
 		if (email != undefined) {this.email = email} 
@@ -119,16 +120,19 @@ class singleProf {
 			else {this.studentYears = "Not Listed"};
 		if (requirements != undefined) {this.requirements = requirements} 
 			else {this.requirements = "Not Listed"};
+		if (students != undefined) {this.students = students} 
+			else {this.students = "Not Listed"};
+		if (opportunities != undefined) {this.opportunities = opportunities} 
+			else {this.opportunities = "Not Listed"};
 	}
 }
 
 function clicked(){
 	document.getElementById("opps").innerHTML = "new text";
-	
-	// const Jose = new singleProf("Jos&eacute E. Andrade", "", "", "No",
-	// 	"Sophomores, Juniors, Seniors");
-	// makeCard("oppTable", Jose);
 
+	// Here is an example of creating a card.
+	// Assuming we find the Prof. Ralph Adolphs. We add this prof's card to
+	// the display.
 	const ralph = divisions[0].departments[4].faculty[0]
 	console.log(ralph)
 	makeCard("oppTable", ralph)
@@ -136,8 +140,17 @@ function clicked(){
 
 
 function makeCard(id, prof) {
+
+	// ------------------------------
+	//  Start with the Card instance
+	// ------------------------------
 	var thisCard = document.createElement("div");
 	thisCard.className = "dispCard";
+
+	// ------------
+	//   Top Line
+	// ------------
+	// First we start with the top line of the card:
 
 	var topLine = document.createElement("div");
 	topLine.className = "topLine";
@@ -149,30 +162,53 @@ function makeCard(id, prof) {
 						<p><b>Currently Accepting?</b> " +
 						prof.accepting + "</p>";
 
+	var profDepts = document.createElement("div");
+	profDepts.className = 'profDepts';
+	deptsStr = '<p>'
+	for (dept of prof.depts) {
+		deptsStr = deptsStr + dept + '<br>'
+	}
+	// Now also add the email
+	deptsStr = deptsStr + "Email: <a href = \"mailto:" +
+		prof.email + "\" >" + prof.email + "</p>";
+	profDepts.innerHTML = deptsStr
+
 	topLine.appendChild(profName);
+	topLine.appendChild(profDepts);
 	thisCard.appendChild(topLine);
 
+	// ----------------
+	//   Body of Card
+	// ----------------
+
+	// First, the Student Years
 	var studentYears = document.createElement("p")
 	studentYears.innerHTML = "<b>Student Years: </b>" + prof.studentYears;
 
+	// Second, the Requirements
 	var requirements = document.createElement("p")
 	requirements.innerHTML = "<b>Requirements: </b>" + prof.requirements;
 
+	// Third, Previous Students
 	var students = document.createElement("p")
-	var studList = "<b>Previous Students:</b> <ul>"
+	var studStr = "<b>Previous Students:</b> "
+	for (stud of prof.students) {
+		studStr = studStr + ", " + stud
+	}
+	// Ignore the first comma
+	studStr = studStr.replace(',', '');
+	students.innerHTML = studStr;
 
-	studList = studList + "<li>Here</li></ul>"
-	students.innerHTML = studList;
+	// Fourth, Current Opportunities
+	var opportunities = document.createElement("p")
+	opportunities.innerHTML =  "<b>Current Opportunities: </b>" 
+									+ prof.opportunities;
+
 
 	thisCard.appendChild(studentYears);
 	thisCard.appendChild(requirements);
-	thisCard.appendChild(students)
+	thisCard.appendChild(students);
+	thisCard.appendChild(opportunities);
 
 	document.getElementById(id).appendChild(thisCard);
-
-	// var li = document.createElement('li');
-	// var span = document.createElement('span');
-	// span.className = 'toggle';
-	// span.appendChild(document.createTextNode('Jan'));
-	// li.appendChild(span);
 }
