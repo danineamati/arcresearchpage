@@ -48,7 +48,8 @@ xhttp.onreadystatechange = function() {
 						// type: "checkbox"
 						type: "image",
 						src: "caret.svg",
-						style: "width:15px;"
+						style: "width:15px;",
+						id: divis.name
 					})
 				)
 			// We want each Division labelled with an anchor tage
