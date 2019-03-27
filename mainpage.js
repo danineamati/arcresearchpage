@@ -41,6 +41,16 @@ xhttp.onreadystatechange = function() {
 
 		// First we will display the divisions (e.g. EAS)
 		for (const divis of divisions) {
+			// We want each Division to be collapsible
+			tag.append(
+				$('<input>')
+					.attr({
+						// type: "checkbox"
+						type: "image",
+						src: "caret.svg",
+						style: "width:15px;"
+					})
+				)
 			// We want each Division labelled with an anchor tage
 			// Which is the link to the division website
 			tag.append(
