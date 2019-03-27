@@ -2,7 +2,7 @@
 
 name = input("Prof Name: ")
 email = input("Email: ")
-other_depts = input("Other Departments: ")
+depts = input("Departments: ")
 accepting = input("Is faculty currently accepting? [Yes/No] ")
 studentYears = input("studentYears: ")
 requirements = input("requirements: ")
@@ -15,7 +15,8 @@ with open("facultyformat.txt", "a") as file:
 	file.write("\n{")
 	file.write('\n  "name":"{}"'.format(name))
 	file.write(',\n  "email":"{}"'.format(email))
-	file.write(',\n  "other_depts":"{}"'.format(other_depts))
+	deptsNames = depts.split(', ')
+	file.write(',\n  "depts":["' + '", "'.join(deptsNames) + '"]')
 	file.write(',\n  "accepting":"{}"'.format(accepting))
 	file.write(',\n  "studentYears":"{}"'.format(studentYears))
 	file.write(',\n  "requirements":"{}"'.format(requirements))
