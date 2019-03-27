@@ -23,13 +23,14 @@
 			"link": "http://www.bbe.caltech.edu/research/neuroscience",
 			"faculty": [
 				{
-				  "name":"Ralph Adolphs",
-				  "email":"radolphs@hss.caltech.edu",
-				  "other_depts":"Psychology",
-				  "accepting":"Yes",
-				  "studentYears":"Sophomore, Junior, Senior",
-				  "requirements":"Strong programming background",
-				  "opportunities":"Participate in cognitive neuroscience research. Analysis of fMRI data, eye tracking data, causal discovery algorithm development, variety of brain imaging projects in which to participate. Also studies in people with specific brain lesions, and in patients with autism."
+			  	"name":"Ralph Adolphs",
+			  	"email":"radolphs@hss.caltech.edu",
+			  	"depts":["Psychology", "Neuroscience"],
+			  	"accepting":"Yes",
+			  	"studentYears":"Sophomore, Junior, Senior",
+			  	"requirements":"Strong programming background",
+			  	"students":["Stephen Dolbier"],
+			  	"opportunities":"Participate in cognitive neuroscience research. Analysis of fMRI data, eye tracking data, causal discovery algorithm development, variety of brain imaging projects in which to participate. Also studies in people with specific brain lesions, and in patients with autism."
 				}
 			]
 		},

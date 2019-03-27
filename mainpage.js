@@ -26,6 +26,7 @@
 
 
 // First we want to load the navigation bar...
+var divisions;
 
 // Basic code fore XMLHTTP Request is from W3 School
 var xhttp = new XMLHttpRequest();
@@ -33,7 +34,7 @@ xhttp.onreadystatechange = function() {
     if (this.readyState == 4 && this.status == 200) {
         // We basically read in the JSON file
         // Note that the filename is at the bottom of the script
-        const divisions = JSON.parse(xhttp.responseText);
+        divisions = JSON.parse(xhttp.responseText);
         console.log("JSON Database Loaded.")
 
         // We use the tag of divisions to update the HTML Page
@@ -102,6 +103,76 @@ xhttp.send();
 
 // Now we can deal with the display cards
 
+
+// "Fake Class for testing"
+class singleProf {
+	constructor(name, email, depts, accepting, studentYears, requirements) {
+		if (name != undefined) {this.name = name} 
+			else {this.name = "Not Listed"};
+		if (email != undefined) {this.email = email} 
+			else {this.email = "Not Listed"};
+		if (depts != undefined) {this.depts = depts} 
+			else {this.depts = "Not Listed"};
+		if (accepting != undefined) {this.accepting = accepting} 
+			else {this.accepting = "Not Listed"};
+		if (studentYears != undefined) {this.studentYears = studentYears} 
+			else {this.studentYears = "Not Listed"};
+		if (requirements != undefined) {this.requirements = requirements} 
+			else {this.requirements = "Not Listed"};
+	}
+}
+
 function clicked(){
 	document.getElementById("opps").innerHTML = "new text";
+	
+	// const Jose = new singleProf("Jos&eacute E. Andrade", "", "", "No",
+	// 	"Sophomores, Juniors, Seniors");
+	// makeCard("oppTable", Jose);
+
+	const ralph = divisions[0].departments[4].faculty[0]
+	console.log(ralph)
+	makeCard("oppTable", ralph)
+}
+
+
+function makeCard(id, prof) {
+	var thisCard = document.createElement("div");
+	thisCard.className = "dispCard";
+
+	var topLine = document.createElement("div");
+	topLine.className = "topLine";
+
+	
+	var profName = document.createElement("div");
+	profName.className = 'profName';
+	profName.innerHTML = "<h3>" + prof.name +"</h3>\
+						<p><b>Currently Accepting?</b> " +
+						prof.accepting + "</p>";
+
+	topLine.appendChild(profName);
+	thisCard.appendChild(topLine);
+
+	var studentYears = document.createElement("p")
+	studentYears.innerHTML = "<b>Student Years: </b>" + prof.studentYears;
+
+	var requirements = document.createElement("p")
+	requirements.innerHTML = "<b>Requirements: </b>" + prof.requirements;
+
+	var students = document.createElement("p")
+	var studList = "<b>Previous Students:</b> <ul>"
+
+	studList = studList + "<li>Here</li></ul>"
+	students.innerHTML = studList;
+
+	thisCard.appendChild(studentYears);
+	thisCard.appendChild(requirements);
+	thisCard.appendChild(students)
+
+	document.getElementById(id).appendChild(thisCard);
+
+	// var li = document.createElement('li');
+	// var span = document.createElement('span');
+	// span.className = 'toggle';
+	// span.appendChild(document.createTextNode('Jan'));
+	// li.appendChild(span);
 }
