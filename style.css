@@ -1,5 +1,8 @@
 /* Formatting of the ARC Research Page. */
 
+h1 {
+	text-align: center;
+}
 h2 {
 	text-align: center;
 }
@@ -36,10 +39,14 @@ p {
 .container {
 	display: flex;
 	font-family: Verdana;
-	height: 1400px;
+	min-height: 800px;
 }
 
-/* This is for the table of opportunities */
+/* 
+##############################################
+   This is for the table of opportunities 
+##############################################
+*/
 .oppTable {
 	min-height: 400px;
 	background-color: #f7ecdc;
@@ -78,9 +85,14 @@ p {
 	text-align: right;
 }
 
-/* This is for the navigation bar on the left*/
+/* 
+##############################################
+   This is for the navigation bar at left 
+##############################################
+*/
 .nav {
 	flex: 1;
+	padding: 8px;
 	padding-top: 20px;
 	max-width: 25%;
 	min-width: 250px;

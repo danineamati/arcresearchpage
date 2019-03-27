@@ -2,7 +2,7 @@
 The research page for the Caltech <a href = arc.caltech.edu>ARC (Academic and Research Committee)</a>.
 
 To run the file locally, navigate to folder and (using <a href= https://nodejs.org/en/>nodejs</a>) run 
-**```npm install -g live-server```**
+**```npm install -g live-server```**.
 To actually run the server, use 
 **```live-server```**
 
