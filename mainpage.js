@@ -40,8 +40,14 @@ xhttp.onreadystatechange = function() {
         // We use the tag of divisions to update the HTML Page
 		const tag = $("#divisions")
 
+		var divis_ind = 0;
+		var dept_ind = 0;
+
 		// First we will display the divisions (e.g. EAS)
 		for (const divis of divisions) {
+
+			// Reset which department number at start of loop
+			dept_ind = 0;
 			// We want each Division to be collapsible
 			tag.append(
 				$('<input>')
@@ -73,7 +79,8 @@ xhttp.onreadystatechange = function() {
 				$('<input>')
 					.attr({
 						type: "checkbox",
-						onclick: "clicked()"
+						id: `${divis_ind}, ${dept_ind}`,
+						onclick: `clicked(${divis_ind}, ${dept_ind})`
 					})
 				)
 
@@ -89,10 +96,16 @@ xhttp.onreadystatechange = function() {
 					.text(dept.name)
 				)
 				tag.append($('<br>'))
+
+				dept_ind ++;
 			}
 
 			tag.append($('<br>'))
+
+			divis_ind ++;
 		}
+
+
 	}
 };
 
@@ -127,15 +140,32 @@ class singleProf {
 	}
 }
 
-function clicked(){
-	document.getElementById("opps").innerHTML = "new text";
+function clicked(divInd, depInd){
+	document.getElementById("opps").innerHTML = "Click any Caret at left to reset.";
 
-	// Here is an example of creating a card.
-	// Assuming we find the Prof. Ralph Adolphs. We add this prof's card to
-	// the display.
-	const ralph = divisions[0].departments[4].faculty[0]
-	console.log(ralph)
-	makeCard("oppTable", ralph)
+	// Update Central Opportunity table display
+	var checkBox = document.getElementById(`${divInd}, ${depInd}`);
+
+	// If the checkbox is checked, display the output text
+	if (checkBox.checked == true) {
+		console.log("CLICKED!");
+		// Here is an example of creating a card.
+		// Assuming we find the Prof. Ralph Adolphs. We add this prof's card to
+		// the display.
+		// const ralph = divisions[0].departments[4].faculty[0]
+		// const this_prof = divisions[divInd].departments[depInd].faculty[facInd]
+		console.log(divisions[divInd].departments[depInd])
+		console.log(`There are ${divisions[divInd].departments[depInd].faculty.length} faculty in this department.`)
+
+		for (const this_prof of divisions[divInd].departments[depInd].faculty) {
+			console.log(this_prof)
+			makeCard("oppTable", this_prof)
+		}	
+	} else {
+		console.log("UN CLICKED!")
+	}
+
+	
 }
 
 
