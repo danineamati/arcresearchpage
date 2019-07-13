@@ -52,7 +52,12 @@ p {
 	background-color: #f7ecdc;
 	padding-top: 1px;
 	border-radius: 15px;
+}
 
+.oppTable span {
+	display: inline-block;
+	vertical-align: top;
+	text-align: left;
 }
 
 .dispCard {
@@ -94,7 +99,7 @@ p {
 	flex: 1;
 	padding: 8px;
 	padding-top: 20px;
-	max-width: 25%;
+	max-width: 20%;
 	min-width: 250px;
 	background-color: #c1b8ed;
 	border-radius: 15px;

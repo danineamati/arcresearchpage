@@ -140,11 +140,16 @@ class singleProf {
 	}
 }
 
+
+// Critical Functions
+
 function clicked(divInd, depInd){
-	document.getElementById("opps").innerHTML = "Click any Caret at left to reset.";
+	
 
 	// Update Central Opportunity table display
 	var checkBox = document.getElementById(`${divInd}, ${depInd}`);
+
+	var cardDeptID = divisions[divInd].departments[depInd].name
 
 	// If the checkbox is checked, display the output text
 	if (checkBox.checked == true) {
@@ -158,18 +163,19 @@ function clicked(divInd, depInd){
 		console.log(`There are ${divisions[divInd].departments[depInd].faculty.length} faculty in this department.`)
 
 		for (const this_prof of divisions[divInd].departments[depInd].faculty) {
-			console.log(this_prof)
-			makeCard("oppTable", this_prof)
+			console.log(this_prof);
+			makeCard("oppTable", this_prof, cardDeptID);
 		}	
 	} else {
-		console.log("UN CLICKED!")
+		console.log("UN CLICKED!");
+		removeAllOfId(cardDeptID);
 	}
 
-	
+	instructionText("oppTable");
 }
 
 
-function makeCard(id, prof) {
+function makeCard(id, prof, deptNameID) {
 
 	// ------------------------------
 	//  Start with the Card instance
@@ -198,6 +204,12 @@ function makeCard(id, prof) {
 	for (dept of prof.depts) {
 		deptsStr = deptsStr + dept + '<br>'
 	}
+
+	// Add the department to the id tag so that the card can be removed
+	// we not clicked
+	thisCard.setAttribute('id', deptNameID);
+	console.log(`id set to ${deptNameID}`)
+
 	// Now also add the email
 	deptsStr = deptsStr + "Email: <a href = \"mailto:" +
 		prof.email + "\" >" + prof.email + "</p>";
@@ -241,4 +253,45 @@ function makeCard(id, prof) {
 	thisCard.appendChild(opportunities);
 
 	document.getElementById(id).appendChild(thisCard);
+}
+
+
+function removeAllOfId(elementId) {
+	// Removes all elements of a given id from the document
+    var element = document.getElementById(elementId);
+    var numPossibleChildren = element.parentNode.childElementCount;
+
+    for (var i = 0; i < numPossibleChildren; i++) {
+    	var element = document.getElementById(elementId);
+    	if (element != null) {
+    		element.parentNode.removeChild(element);
+    	}	
+    }
+}
+
+
+function instructionText(id) {
+	var element = document.getElementById(id);
+
+	var instructions = "Please click any department at left <br> to begin viewing results.";
+	// console.log("Checking instructions");
+
+	if (element === null) {
+		// display instructions
+		document.getElementById("opps").innerHTML = instructions;
+	} else {
+		var numChildren = element.childElementCount;
+		// console.log(element);
+		// console.log(numChildren);
+
+		// If there are no cards there is only one child (the instructions).
+		if (numChildren === 1) {
+			// display instructions
+			document.getElementById("opps").innerHTML = instructions;
+		} else {
+			// display nothing
+			document.getElementById("opps").innerHTML = "";
+			// Alternate Text: "Click any Caret at left to reset.";
+		}
+	}
 }
