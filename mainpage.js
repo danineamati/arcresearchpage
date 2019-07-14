@@ -54,7 +54,7 @@ xhttp.onreadystatechange = function() {
 					.attr({
 						// type: "checkbox"
 						type: "image",
-						src: "caret.svg",
+						src: "images/caret.svg",
 						style: "width:15px;",
 						id: divis.name
 					})
@@ -273,7 +273,7 @@ function removeAllOfId(elementId) {
 function instructionText(id) {
 	var element = document.getElementById(id);
 
-	var instructions = "Please click any department at left <br> to begin viewing results.";
+	var instructions = "<br>Please click any department at left <br> to begin viewing results.";
 	// console.log("Checking instructions");
 
 	if (element === null) {

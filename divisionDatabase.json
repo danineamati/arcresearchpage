@@ -366,21 +366,23 @@
 			"faculty": [
 				{
 					"name":"Aaron Ames",
-					"other_depts":"Control and Dynamical Systems",
-					"Interests": [
-						"Bipdal robotics, ",
-						"hybrid systems, ",
-						"Zeno behavior, ",
-						"prosthetic devices.  ",
-						"Theoretical foundations with practical applications ",
-						"to human inspired bipedal walking."
-					],
-					"Students": [
-						"Jane Doe (2019): jdoe@caltech.edu"
-					]
+					"email":"ames@caltech.edu",
+					"depts":["Mechanical and Civil Engineering","Control and Dynamical Systems"],
+					"accepting":"Unknown",
+					"studentYears":"Unknown",
+					"requirements":"Unknown",
+					"opportunities": "Bipdal robotics, hybrid systems, Zeno behavior, prosthetic devices. Theoretical foundations with practical applications to human inspired bipedal walking.",
+					"students": []
 				},
 				{
-
+					"name":"Jos&eacute E. Andrade",
+					"email": "jandrade@caltech.edu",
+					"depts":["Mechanical and Civil Engineering"],
+					"accepting":"Unknown",
+					"studentYears":"Unknown",
+					"requirements":"Unknown",
+					"opportunities": "Granular materials, geomechanics, carbon sequestration, multiscale modeling",
+					"students": []
 				}
 			]
 		}

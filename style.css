@@ -40,6 +40,8 @@ p {
 	display: flex;
 	font-family: Verdana;
 	min-height: 800px;
+	background-image: url("images/ARCLogoFaded2.png");
+	background-size: cover;
 }
 
 /* 
@@ -48,16 +50,10 @@ p {
 ##############################################
 */
 .oppTable {
-	min-height: 400px;
+	min-height: 300px;
 	background-color: #f7ecdc;
-	padding-top: 1px;
+	/*padding-top: 1px;*/
 	border-radius: 15px;
-}
-
-.oppTable span {
-	display: inline-block;
-	vertical-align: top;
-	text-align: left;
 }
 
 .dispCard {
