@@ -200,10 +200,11 @@ function makeCard(id, prof, deptNameID) {
 
 	var profDepts = document.createElement("div");
 	profDepts.className = 'profDepts';
-	deptsStr = '<p>'
-	for (dept of prof.depts) {
-		deptsStr = deptsStr + dept + '<br>'
-	}
+	deptsStr = '<p>' + prof.depts + '<br>';
+	
+	// for (dept of prof.depts) {
+	// 	deptsStr = deptsStr + dept + '<br>'
+	// }
 
 	// Add the department to the id tag so that the card can be removed
 	// we not clicked
@@ -233,10 +234,10 @@ function makeCard(id, prof, deptNameID) {
 
 	// Third, Previous Students
 	var students = document.createElement("p")
-	var studStr = "<b>Previous Students:</b> "
-	for (stud of prof.students) {
-		studStr = studStr + ", " + stud
-	}
+	var studStr = "<b>Previous Students:</b> " + prof.students;
+	// for (stud of prof.students) {
+	// 	studStr = studStr + ", " + stud
+	// }
 	// Ignore the first comma
 	studStr = studStr.replace(',', '');
 	students.innerHTML = studStr;
