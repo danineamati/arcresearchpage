@@ -1,189 +1,287 @@
 [{
-		"name": "Biology and Biological Engineering",
-		"link": "http://www.bbe.caltech.edu/",
-		"departments": [{
-				"name": "Biochemistry, Structural, and Molecular Cell Biology",
-				"link": "http://www.bbe.caltech.edu/research/biochemistry-structural-and-molecular-cell-biology",
-				"faculty": [{
-						"time": "1/15/2020 11:39:34",
-						"name": "Bil Clemons",
-						"depts": "Bioengineering",
-						"email": "clemons@caltech.edu",
-						"accepting": "Yes",
-						"studentYears": "Freshman, Sophomore, Junior, Senior",
-						"requirements": "Previous protein and cloning experience preferred but not required. Enthusiasm and commitment is the biggest driver. Freshman can join the lab if they have previous experience.",
-						"students": "",
-						"opportunities": "Students typically start in my group assisting a mentor towards a specific project. After demonstrating independence, students can take on their own independent project. We are primarily a structural biology group and start with protein expression and purification that allows for various structural studies.",
-						"website": "clemonslab.caltech.edu"
-					},
+	"name": "Biology and Biological Engineering",
+	"link": "http://www.bbe.caltech.edu/",
+	"departments": [
+		{
+			"name": "Biochemistry, Structural, and Molecular Cell Biology",
+			"link": "http://www.bbe.caltech.edu/research/biochemistry-structural-and-molecular-cell-biology",
+			"faculty": [
+				  {
+				    "time": "1/22/2020 23:54:39",
+				    "name": "Justin Bois",
+				    "depts": "Bioengineering, Biology",
+				    "email": "bois@caltech.edu",
+				    "accepting": "No",
+				    "studentYears": "",
+				    "requirements": "",
+				    "students": "",
+				    "opportunities": "",
+				    "website": ""
+				  },
+				  {
+				    "time": "1/21/2020 13:28:00",
+				    "name": "David Chan",
+				    "depts": "Biology",
+				    "email": "dchan@caltech.edu",
+				    "accepting": "Yes",
+				    "studentYears": "Sophomore, Junior, Senior",
+				    "requirements": "Bi8, Bi9",
+				    "students": "",
+				    "opportunities": "molecular biology, cell biology",
+				    "website": "http://chanlab.caltech.edu"
+				  },
+				  {
+				    "time": "1/21/2020 13:28:31",
+				    "name": "Dennis Dougherty",
+				    "depts": "Biology",
+				    "email": "dadougherty@caltech.edu",
+				    "accepting": "No",
+				    "studentYears": "",
+				    "requirements": "",
+				    "students": "",
+				    "opportunities": "",
+				    "website": ""
+				  },
+				  {
+				    "time": "1/21/2020 14:02:17",
+				    "name": "Andre Hoelz",
+				    "depts": "Biology",
+				    "email": "hoelz@caltech.edu",
+				    "accepting": "Yes",
+				    "studentYears": "Freshman, Sophomore, Junior, Senior",
+				    "requirements": "none",
+				    "students": "Krystal Brodsky, formerly Ellen Yu, Sarah Cai",
+				    "opportunities": "Biochemistry/Structural Biology",
+				    "website": "ahweb.caltech.edu"
+				  },
+				  {
+				    "time": "1/21/2020 14:09:51",
+				    "name": "Carlos Lois",
+				    "depts": "Biology",
+				    "email": "clois@caltech.edu",
+				    "accepting": "Yes",
+				    "studentYears": "Sophomore",
+				    "requirements": "",
+				    "students": "Lily Zhang, Jessica Ye",
+				    "opportunities": "computational analysis of behavior, structure of brain circuits",
+				    "website": "http://theloislab.com"
+				  },
+				  {
+				    "time": "1/21/2020 14:47:35",
+				    "name": "Niles Pierce",
+				    "depts": "Biology",
+				    "email": "niles@caltech.edu",
+				    "accepting": "Yes",
+				    "studentYears": "Freshman, Sophomore, Junior, Senior",
+				    "requirements": "algorithms and programming  -or- wet lab experience -or- both",
+				    "students": "Yuhan Xie (Univ Cambridge), Lachlan Deimel (Australian Nat Univ), Bergthor Traustason (Univ Iceland), Andrew Hou (BE)",
+				    "opportunities": "Imaging subgroup: dynamic nucleic acid nanotechnology for multiplexed quantitative imaging of the programmable molecules of life (DNA, RNA, proteins); Regulation subgroup: programmable conditional regulation via dynamic RNA nanotechnology with small conditional RNAs; Algorithms subgroup: mathematically rigorous, physically sound, computationally efficient algorithms for the analysis and design of nucleic acid structures, devices, and systems.",
+				    "website": "www.piercelab.caltech.edu"
+				  },
+				  {
+				    "time": "1/21/2020 17:01:48",
+				    "name": "Paul Sternberg",
+				    "depts": "Biology",
+				    "email": "pws@caltech.edu",
+				    "accepting": "Yes",
+				    "studentYears": "Freshman, Sophomore, Junior, Senior",
+				    "requirements": "Interest",
+				    "students": "Sophie Walton, Jessica Sun",
+				    "opportunities": "Genetics of behavior and development; neural circuits; natural language processing; genomics",
+				    "website": "Wormlab@caltech.edu"
+				  },
+				  {
+				    "time": "1/22/2020 20:09:10",
+				    "name": "Kai Zinn",
+				    "depts": "Biology",
+				    "email": "zinnk@caltech.edu",
+				    "accepting": "Yes",
+				    "studentYears": "Junior, Senior",
+				    "requirements": "At least one biology lab course",
+				    "students": "",
+				    "opportunities": "We do Drosophila neurogenetics and molecular biology.",
+				    "website": "https://www.its.caltech.edu/~zinnlab/research.html"
+				  },
+				  {
+				    "time": "1/23/2020 12:49:15",
+				    "name": "Elliot Meyerowitz",
+				    "depts": "Biology",
+				    "email": "meyerow@caltech.edu",
+				    "accepting": "Yes",
+				    "studentYears": "Freshman, Sophomore, Junior, Senior",
+				    "requirements": "Some lab experience, in any area",
+				    "students": "",
+				    "opportunities": "To work with postdoctoral fellow Eldad Afik on characterizing movement of organelles, and regeneration, in the marine alga Caulerpa.",
+				    "website": "http://www.its.caltech.edu/~plantlab/"
+				  },
+				  {
+				    "time": "1/23/2020 13:46:04",
+				    "name": "David Prober",
+				    "depts": "Biology",
+				    "email": "dprober@caltech.edu",
+				    "accepting": "Yes",
+				    "studentYears": "Sophomore, Junior, Senior",
+				    "requirements": "Biology or related field major",
+				    "students": "Sarah Hou",
+				    "opportunities": "Research opportunities include working with graduate students and postdocs to study genes and neurons that regulate sleep. Projects involve molecular and behavioral neuroscience, genetics, and molecular biology.",
+				    "website": "proberlab.caltech.edu"
+				  },
+				  {
+				    "time": "1/24/2020 16:18:34",
+				    "name": "Elliot Meyerowitz",
+				    "depts": "Biology",
+				    "email": "meyerow@caltech.edu",
+				    "accepting": "Yes",
+				    "studentYears": "Freshman, Sophomore, Junior, Senior",
+				    "requirements": "3-D printing design and printing",
+				    "students": "",
+				    "opportunities": "As a part of our plant research we need to develop an automated hydroponic system.  The project would be development of the CAD plans for 3D printing a hydroponic live-imaging system for observation of the shoot apical meristem and testing its effectiveness.",
+				    "website": "http://www.its.caltech.edu/~plantlab/"
+				  },
+				  {
+				    "time": "1/30/2020 23:25:38",
+				    "name": "Joseph Parker",
+				    "depts": "Biology",
+				    "email": "joep@caltech.edu",
+				    "accepting": "Yes",
+				    "studentYears": "Freshman, Sophomore, Junior, Senior",
+				    "requirements": "",
+				    "students": "",
+				    "opportunities": "Insect transgenesis",
+				    "website": "beetles.caltech.edu"
+				  },
+				  {
+				    "time": "1/22/2020 6:03:34",
+				    "name": "Carol Readhead",
+				    "depts": "Biology, Bioengineering",
+				    "email": "readhead@caltech.edu",
+				    "accepting": "Yes",
+				    "studentYears": "Freshman, Sophomore, Junior, Senior",
+				    "requirements": "Students should have a major interest in Developmental biology and working with animals",
+				    "students": "Sumner Blue, George Daghlian",
+				    "opportunities": "Histology,  immunohistochemistry and imaging of embryos.  Analysis of images",
+				    "website": ""
+				  },
+				  {
+				    "time": "1/21/2020 17:23:50",
+				    "name": "Elizabeth Hong",
+				    "depts": "Biology, Neuroscience",
+				    "email": "ejhong@caltech.edu",
+				    "accepting": "Yes",
+				    "studentYears": "Freshman, Sophomore, Junior, Senior",
+				    "requirements": "Programming and fabrication skills useful but not necessary. Must be intellectually curious. Must commit to a minimum of 9 hrs/week for two or more terms (which can include summer research).",
+				    "students": "Brian Nguyen, Matt Bauer",
+				    "opportunities": "Computational modeling, behavioral experiments, analytical chemistry, molecular cloning and genome engineering, extracellular electrophysiology",
+				    "website": "ejhonglab.org"
+				  },
+				  {
+				    "time": "1/23/2020 15:18:08",
+				    "name": "Shinsuke Shimojo",
+				    "depts": "Biology, Neuroscience",
+				    "email": "sshimojo@caltech.edu",
+				    "accepting": "Yes",
+				    "studentYears": "Sophomore, Junior, Senior",
+				    "requirements": "Some neuroscience, bioengineering, psychology related courses, ability of coding in Matlab, Python or C++.",
+				    "students": "Lily Kitagawa, Steve Guo, Ishani Ganguly, Sara Adams, Anthony Pineci",
+				    "opportunities": "Assisting human psychophysics (sensation, decision, action) experiments, in coding, running, and analyzing. Human magnetic sensation, Individual and Team flow, visual preference decision, perception and action in the extreme periphery of visual field, etc.",
+				    "website": "https://neuro.caltech.edu"
+				  },
+				  {
+				    "time": "1/25/2020 10:34:52",
+				    "name": "Markus Meister",
+				    "depts": "Biology, Neuroscience",
+				    "email": "meister@caltech.edu",
+				    "accepting": "Yes",
+				    "studentYears": "Freshman, Sophomore, Junior, Senior",
+				    "requirements": "",
+				    "students": "",
+				    "opportunities": "",
+				    "website": "https://meisterlab.caltech.edu"
+				  },
+				  {
+				    "time": "1/21/2020 19:23:12",
+				    "name": "Ralph Adolphs",
+				    "depts": "Biology, Psychology",
+				    "email": "radolphs@caltech.edu",
+				    "accepting": "Yes",
+				    "studentYears": "Freshman, Sophomore, Junior, Senior",
+				    "requirements": "Must have coding experience, preferably in Python",
+				    "students": "Rae Moar, Louis Santos, Roshan Bal, Isabella Camplisson",
+				    "opportunities": "Working on human data, likely either brain imaging data and/or eyetracking data; applying machine learning algorithms to find patterns in the data.  Will work with graduate students and/or post-docs in the lab.",
+				    "website": "emotion.caltech.edu"
+				  }
+			]
+		},
+		{
+			"name": "Biological Engineering",
+			"link": "http://www.bbe.caltech.edu/research/biological-engineering",
+			"faculty": [
 					{
-						"time": "1/15/2020 22:41:41",
-						"name": "Lea Goentoro",
-						"depts": "Bioengineering",
-						"email": "goentoro@caltech.edu",
-						"accepting": "Yes",
-						"studentYears": "Freshman, Sophomore, Junior, Senior",
-						"requirements": "Curiosity, creativity, courage to try new things.  Love finding things out, and diligent (read background literature).  Prefer students who are looking for a long-term, in-depth research project.",
-						"students": "",
-						"opportunities": "Research in inducing regeneration in animal.  An ideal candidate pursues their own independent project in the problem of inducing regeneration in animal.  Project formulated together with the professor, new ideas are welcome and encouraged. There are multiple model organisms in the lab.",
-						"website": "https://goentoro.caltech.edu"
-					},
+				    "time": "1/25/2020 10:24:30",
+				    "name": "Richard Murray",
+				    "depts": "Control and Dynamical Systems, Bioengineering",
+				    "email": "murray@cds.caltech.edu",
+				    "accepting": "Yes",
+				    "studentYears": "Freshman, Sophomore, Junior, Senior",
+				    "requirements": "Either Bi 1X (for students interested in synthetic biology) or CS 1/2 (for students interested  in robotics and controls).  Other useful classes: ChE 130, CS 142/413, CDS 110.",
+				    "students": "Liana Merk, Sophie Walton, Shuyue Yu, Victoria Chen, JD Walker",
+				    "opportunities": "My group's research is in the application of feedback and control to networked systems, with applications in biology and autonomy. Current projects include work on biomolecular feedback systems, novel architectures for control systems, and networked control systems.",
+				    "website": "https://www.cds.caltech.edu/~murray"
+				  },
 					{
-						"time": "1/22/2020 23:54:39",
-						"name": "Justin Bois",
-						"depts": "Bioengineering, Biology",
-						"email": "bois@caltech.edu",
-						"accepting": "No",
-						"studentYears": "",
-						"requirements": "",
-						"students": "",
-						"opportunities": "",
-						"website": ""
-					},
-					{
-						"time": "1/21/2020 13:28:00",
-						"name": "David Chan",
-						"depts": "Biology",
-						"email": "dchan@caltech.edu",
-						"accepting": "Yes",
-						"studentYears": "Sophomore, Junior, Senior",
-						"requirements": "Bi8, Bi9",
-						"students": "",
-						"opportunities": "molecular biology, cell biology",
-						"website": "http://chanlab.caltech.edu"
-					},
-					{
-						"time": "1/21/2020 13:28:31",
-						"name": "Dennis Dougherty",
-						"depts": "Biology",
-						"email": "dadougherty@caltech.edu",
-						"accepting": "No",
-						"studentYears": "",
-						"requirements": "",
-						"students": "",
-						"opportunities": "",
-						"website": ""
-					},
-					{
-						"time": "1/21/2020 14:02:17",
-						"name": "Andre Hoelz",
-						"depts": "Biology",
-						"email": "hoelz@caltech.edu",
-						"accepting": "Yes",
-						"studentYears": "Freshman, Sophomore, Junior, Senior",
-						"requirements": "none",
-						"students": "Krystal Brodsky, formerly Ellen Yu, Sarah Cai",
-						"opportunities": "Biochemistry/Structural Biology",
-						"website": "ahweb.caltech.edu"
-					},
-					{
-						"time": "1/21/2020 14:09:51",
-						"name": "Carlos Lois",
-						"depts": "Biology",
-						"email": "clois@caltech.edu",
-						"accepting": "Yes",
-						"studentYears": "Sophomore",
-						"requirements": "",
-						"students": "Lily Zhang, Jessica Ye",
-						"opportunities": "computational analysis of behavior, structure of brain circuits",
-						"website": "http://theloislab.com"
-					},
-					{
-						"time": "1/21/2020 14:47:35",
-						"name": "Niles Pierce",
-						"depts": "Biology",
-						"email": "niles@caltech.edu",
-						"accepting": "Yes",
-						"studentYears": "Freshman, Sophomore, Junior, Senior",
-						"requirements": "algorithms and programming  -or- wet lab experience -or- both",
-						"students": "Yuhan Xie (Univ Cambridge), Lachlan Deimel (Australian Nat Univ), Bergthor Traustason (Univ Iceland), Andrew Hou (BE)",
-						"opportunities": "Imaging subgroup: dynamic nucleic acid nanotechnology for multiplexed quantitative imaging of the programmable molecules of life (DNA, RNA, proteins); Regulation subgroup: programmable conditional regulation via dynamic RNA nanotechnology with small conditional RNAs; Algorithms subgroup: mathematically rigorous, physically sound, computationally efficient algorithms for the analysis and design of nucleic acid structures, devices, and systems.",
-						"website": "www.piercelab.caltech.edu"
-					},
-					{
-						"time": "1/21/2020 17:01:48",
-						"name": "Paul Sternberg",
-						"depts": "Biology",
-						"email": "pws@caltech.edu",
-						"accepting": "Yes",
-						"studentYears": "Freshman, Sophomore, Junior, Senior",
-						"requirements": "Interest",
-						"students": "Sophie Walton, Jessica Sun",
-						"opportunities": "Genetics of behavior and development; neural circuits; natural language processing; genomics",
-						"website": "Wormlab@caltech.edu"
-					},
-					{
-						"time": "1/22/2020 20:09:10",
-						"name": "Kai Zinn",
-						"depts": "Biology",
-						"email": "zinnk@caltech.edu",
-						"accepting": "Yes",
-						"studentYears": "Junior, Senior",
-						"requirements": "At least one biology lab course",
-						"students": "",
-						"opportunities": "We do Drosophila neurogenetics and molecular biology.",
-						"website": "https://www.its.caltech.edu/~zinnlab/research.html"
-					},
-					{
-						"time": "1/23/2020 12:49:15",
-						"name": "Elliot Meyerowitz",
-						"depts": "Biology",
-						"email": "meyerow@caltech.edu",
-						"accepting": "Yes",
-						"studentYears": "Freshman, Sophomore, Junior, Senior",
-						"requirements": "Some lab experience, in any area",
-						"students": "",
-						"opportunities": "To work with postdoctoral fellow Eldad Afik on characterizing movement of organelles, and regeneration, in the marine alga Caulerpa.",
-						"website": "http://www.its.caltech.edu/~plantlab/"
-					},
-					{
-						"time": "1/23/2020 13:46:04",
-						"name": "David Prober",
-						"depts": "Biology",
-						"email": "dprober@caltech.edu",
-						"accepting": "Yes",
-						"studentYears": "Sophomore, Junior, Senior",
-						"requirements": "Biology or related field major",
-						"students": "Sarah Hou",
-						"opportunities": "Research opportunities include working with graduate students and postdocs to study genes and neurons that regulate sleep. Projects involve molecular and behavioral neuroscience, genetics, and molecular biology.",
-						"website": "proberlab.caltech.edu"
-					},
-					{
-						"time": "1/24/2020 16:18:34",
-						"name": "Elliot Meyerowitz",
-						"depts": "Biology",
-						"email": "meyerow@caltech.edu",
-						"accepting": "Yes",
-						"studentYears": "Freshman, Sophomore, Junior, Senior",
-						"requirements": "3-D printing design and printing",
-						"students": "",
-						"opportunities": "As a part of our plant research we need to develop an automated hydroponic system.  The project would be development of the CAD plans for 3D printing a hydroponic live-imaging system for observation of the shoot apical meristem and testing its effectiveness.",
-						"website": "http://www.its.caltech.edu/~plantlab/"
-					},
-					{
-						"time": "1/30/2020 23:25:38",
-						"name": "Joseph Parker",
-						"depts": "Biology",
-						"email": "joep@caltech.edu",
-						"accepting": "Yes",
-						"studentYears": "Freshman, Sophomore, Junior, Senior",
-						"requirements": "",
-						"students": "",
-						"opportunities": "Insect transgenesis",
-						"website": "beetles.caltech.edu"
-					},
-					{
-						"time": "1/22/2020 6:03:34",
-						"name": "Carol Readhead",
-						"depts": "Biology, Bioengineering",
-						"email": "readhead@caltech.edu",
-						"accepting": "Yes",
-						"studentYears": "Freshman, Sophomore, Junior, Senior",
-						"requirements": "Students should have a major interest in Developmental biology and working with animals",
-						"students": "Sumner Blue, George Daghlian",
-						"opportunities": "Histology,  immunohistochemistry and imaging of embryos.  Analysis of images",
-						"website": ""
-					},
+					    "time": "1/15/2020 11:39:34",
+					    "name": "Bil Clemons",
+					    "depts": "Bioengineering",
+					    "email": "clemons@caltech.edu",
+					    "accepting": "Yes",
+					    "studentYears": "Freshman, Sophomore, Junior, Senior",
+					    "requirements": "Previous protein and cloning experience preferred but not required. Enthusiasm and commitment is the biggest driver. Freshman can join the lab if they have previous experience.",
+					    "students": "",
+					    "opportunities": "Students typically start in my group assisting a mentor towards a specific project. After demonstrating independence, students can take on their own independent project. We are primarily a structural biology group and start with protein expression and purification that allows for various structural studies.",
+					    "website": "clemonslab.caltech.edu"
+					  },
+					  {
+					    "time": "1/15/2020 22:41:41",
+					    "name": "Lea Goentoro",
+					    "depts": "Bioengineering",
+					    "email": "goentoro@caltech.edu",
+					    "accepting": "Yes",
+					    "studentYears": "Freshman, Sophomore, Junior, Senior",
+					    "requirements": "Curiosity, creativity, courage to try new things.  Love finding things out, and diligent (read background literature).  Prefer students who are looking for a long-term, in-depth research project.",
+					    "students": "",
+					    "opportunities": "Research in inducing regeneration in animal.  An ideal candidate pursues their own independent project in the problem of inducing regeneration in animal.  Project formulated together with the professor, new ideas are welcome and encouraged. There are multiple model organisms in the lab.",
+					    "website": "https://goentoro.caltech.edu"
+					  },
+					  {
+					    "time": "1/22/2020 23:54:39",
+					    "name": "Justin Bois",
+					    "depts": "Bioengineering, Biology",
+					    "email": "bois@caltech.edu",
+					    "accepting": "No",
+					    "studentYears": "",
+					    "requirements": "",
+					    "students": "",
+					    "opportunities": "",
+					    "website": ""
+					  },
+						{
+							"time": "1/22/2020 6:03:34",
+							"name": "Carol Readhead",
+							"depts": "Biology, Bioengineering",
+							"email": "readhead@caltech.edu",
+							"accepting": "Yes",
+							"studentYears": "Freshman, Sophomore, Junior, Senior",
+							"requirements": "Students should have a major interest in Developmental biology and working with animals",
+							"students": "Sumner Blue, George Daghlian",
+							"opportunities": "Histology,  immunohistochemistry and imaging of embryos.  Analysis of images",
+							"website": ""
+						}
+			]
+		},
+		{
+			"name": "Neuroscience",
+			"link": "http://www.bbe.caltech.edu/research/neuroscience",
+			"faculty": [
 					{
 						"time": "1/21/2020 17:23:50",
 						"name": "Elizabeth Hong",
@@ -219,289 +317,257 @@
 						"students": "",
 						"opportunities": "",
 						"website": "https://meisterlab.caltech.edu"
-					},
-					{
-						"time": "1/21/2020 19:23:12",
-						"name": "Ralph Adolphs",
-						"depts": "Biology, Psychology",
-						"email": "radolphs@caltech.edu",
-						"accepting": "Yes",
-						"studentYears": "Freshman, Sophomore, Junior, Senior",
-						"requirements": "Must have coding experience, preferably in Python",
-						"students": "Rae Moar, Louis Santos, Roshan Bal, Isabella Camplisson",
-						"opportunities": "Working on human data, likely either brain imaging data and/or eyetracking data; applying machine learning algorithms to find patterns in the data.  Will work with graduate students and/or post-docs in the lab.",
-						"website": "emotion.caltech.edu"
 					}
-				]
-			},
-			{
-				"name": "Biological Engineering",
-				"link": "http://www.bbe.caltech.edu/research/biological-engineering",
-				"faculty": [{
-						"time": "1/25/2020 10:24:30",
-						"name": "Richard Murray",
-						"depts": "Control and Dynamical Systems, Bioengineering",
-						"email": "murray@cds.caltech.edu",
-						"accepting": "Yes",
-						"studentYears": "Freshman, Sophomore, Junior, Senior",
-						"requirements": "Either Bi 1X (for students interested in synthetic biology) or CS 1/2 (for students interested  in robotics and controls).  Other useful classes: ChE 130, CS 142/413, CDS 110.",
-						"students": "Liana Merk, Sophie Walton, Shuyue Yu, Victoria Chen, JD Walker",
-						"opportunities": "My group's research is in the application of feedback and control to networked systems, with applications in biology and autonomy. Current projects include work on biomolecular feedback systems, novel architectures for control systems, and networked control systems.",
-						"website": "https://www.cds.caltech.edu/~murray"
-					},
-					{
-						"name": "Niles Pierce",
-						"email": "niles@caltech.edu",
-						"depts": ["Applied and Computational Mathematics", "Bioengineering"],
-						"accepting": "Yes",
-						"studentYears": "(no response)",
-						"requirements": "(Bi 8 and Bi 10) or (Bi 1x) and one summer of wet lab experience; independent, resourceful, creative, motivated; interested in inventing, developing, and validating breakthrough technologies",
-						"students": ["(no response)"],
-						"opportunities": "Develop programmable molecular technologies for imaging the programmable molecules of life (DNA, RNA, protein)"
-					}
-				]
-			}, {
-				"name": "Neuroscience",
-				"link": "http://www.bbe.caltech.edu/research/neuroscience",
-				"faculty": [{
-						"name": "Ralph Adolphs",
-						"email": "radolphs@hss.caltech.edu",
-						"depts": ["Psychology", "Neuroscience"],
-						"accepting": "Yes",
-						"studentYears": "Sophomore, Junior, Senior",
-						"requirements": "Strong programming background",
-						"students": ["Stephen Dolbier"],
-						"opportunities": "Participate in cognitive neuroscience research. Analysis of fMRI data, eye tracking data, causal discovery algorithm development, variety of brain imaging projects in which to participate. Also studies in people with specific brain lesions, and in patients with autism."
-					},
-					{
-						"name": "David J. Anderson",
-						"email": "wuwei@caltech.edu",
-						"depts": ["Neuroscience"],
-						"accepting": "Yes",
-						"studentYears": "Sophomore, Junior, Senior",
-						"requirements": "Biology or related field major",
-						"students": ["May Hui"],
-						"opportunities": "We have several projects in the lab involving the study of brain neural circuitry relating to behavior and emotion. Students are encouraged to visit the Anderson lab website http://davidandersonlab.caltech.edu "
-					},
-					{
-						"name": "Elizabeth Hong",
-						"email": "ejhong@caltech.edu",
-						"depts": ["Neuroscience"],
-						"accepting": "Yes",
-						"studentYears": "Freshman, Sophomore, Junior, Senior",
-						"requirements": "Strong intellectual curiosity, motivation, and follow-through",
-						"students": ["Asta Wu"],
-						"opportunities": "Our lab studies the synaptic and circuit basis of odor processing in fruit flies. Current projects include mapping isointense odor stimuli in the fly antenna using extracellular electrophysiology, evaluating the impact of neural activity on mitochondrial localization in neuronal arbors, quantitative measurements of perceptual thresholds for odor discrimination and demixing, and developing computational models of neural representations of odor that can make predictions about odor-guided behaviors."
-					}
-				]
-			},
-			{
-				"name": "Systems Biology",
-				"link": "http://www.bbe.caltech.edu/research/systems-biology"
-			}
-		]
-	},
-	{
-		"name": "Chemistry and Chemical Engineering",
-		"link": "http://cce.caltech.edu/",
-		"departments": [{
-				"name": "Biochemistry and Molecular Biophysics",
-				"faculty": [
+			]
+		},
+		{
+			"name": "Systems Biology",
+			"link": "http://www.bbe.caltech.edu/research/systems-biology"
+		}
+	]
+},
+{
+	"name": "Chemistry and Chemical Engineering",
+	"link": "http://cce.caltech.edu/",
+	"departments": [
+		{
+			"name": "Biochemistry and Molecular Biophysics",
+			"faculty": [
 
-				]
-			},
-			{
-				"name": "Chemistry",
-				"faculty": [{
-						"time": "1/21/2020 14:42:54",
-						"name": "Lu Wei",
-						"depts": "Chemistry",
-						"email": "lwei@caltech.edu",
-						"accepting": "Yes",
-						"studentYears": "Junior, Senior",
-						"requirements": "wet lab experience",
-						"students": "Rona Yu",
-						"opportunities": "Work under the mentorship of a graduate student. Help perform experiments and process data.",
-						"website": "https://www.weilab.caltech.edu"
-					},
+			]
+		},
+		{
+			"name": "Chemistry",
+			"faculty": [
 					{
-						"time": "1/21/2020 15:27:38",
-						"name": "Bill Goddard",
-						"depts": "Chemistry",
-						"email": "wagoddard3@gmail.com or wag@caltech.edu",
-						"accepting": "Yes",
-						"studentYears": "Freshman, Sophomore, Junior, Senior",
-						"requirements": "ability to use computers, our research uses QM and MD answer problems in  chemistry, materials science, biochemistry",
-						"students": "Jules Oppenheim, Dan Ilyin",
-						"opportunities": "see papers at https://caltech-msc.github.io/publications/pubs-current.html",
-						"website": ""
-					},
+				    "time": "1/21/2020 14:42:54",
+				    "name": "Lu Wei",
+				    "depts": "Chemistry",
+				    "email": "lwei@caltech.edu",
+				    "accepting": "Yes",
+				    "studentYears": "Junior, Senior",
+				    "requirements": "wet lab experience",
+				    "students": "Rona Yu",
+				    "opportunities": "Work under the mentorship of a graduate student. Help perform experiments and process data.",
+				    "website": "https://www.weilab.caltech.edu"
+				  },
+				  {
+				    "time": "1/21/2020 15:27:38",
+				    "name": "Bill Goddard",
+				    "depts": "Chemistry",
+				    "email": "wagoddard3@gmail.com or wag@caltech.edu",
+				    "accepting": "Yes",
+				    "studentYears": "Freshman, Sophomore, Junior, Senior",
+				    "requirements": "ability to use computers, our research uses QM and MD answer problems in  chemistry, materials science, biochemistry",
+				    "students": "Jules Oppenheim, Dan Ilyin",
+				    "opportunities": "see papers at https://caltech-msc.github.io/publications/pubs-current.html",
+				    "website": ""
+				  },
+				  {
+				    "time": "1/21/2020 13:34:20",
+				    "name": "Scott Cushing",
+				    "depts": "Chemistry, Physics",
+				    "email": "scushing@caltech.edu",
+				    "accepting": "Yes",
+				    "studentYears": "Freshman, Sophomore, Junior, Senior",
+				    "requirements": "Judged on an individual  basis",
+				    "students": "Alex Krotz",
+				    "opportunities": "Contribute to lab on laser-based instrumentation building, involving entangled photons or ultrafast xray pulses, or the theory of the related spectra",
+				    "website": "cushinglab.caltech.edu"
+				  }
+			]
+		},
+		{
+			"name": "Chemical Engineering",
+			"faculty": [
+			]
+		}
+	]
+},
+{
+	"name": "Engineering and Applied Science",
+	"link": "http://eas.caltech.edu/",
+	"departments": [
+		{
+			"name":"Aerospace",
+			"link": "http://www.galcit.caltech.edu/",
+			"faculty": [
 					{
-						"time": "1/21/2020 13:34:20",
-						"name": "Scott Cushing",
-						"depts": "Chemistry, Physics",
-						"email": "scushing@caltech.edu",
-						"accepting": "Yes",
-						"studentYears": "Freshman, Sophomore, Junior, Senior",
-						"requirements": "Judged on an individual  basis",
-						"students": "Alex Krotz",
-						"opportunities": "Contribute to lab on laser-based instrumentation building, involving entangled photons or ultrafast xray pulses, or the theory of the related spectra",
-						"website": "cushinglab.caltech.edu"
-					}
-				]
-			},
-			{
-				"name": "Chemical Engineering",
-				"faculty": []
-			}
-		]
-	},
-	{
-		"name": "Engineering and Applied Science",
-		"link": "http://eas.caltech.edu/",
-		"departments": [{
-				"name": "Aerospace",
-				"link": "http://www.galcit.caltech.edu/",
-				"faculty": [{
-					"time": "1/21/2020 14:33:37",
-					"name": "Beverley McKeon",
-					"depts": "Aeronautics",
-					"email": "mckeon@caltech.edu",
-					"accepting": "Yes",
-					"studentYears": "Sophomore, Junior, Senior",
-					"requirements": "",
-					"students": "Alex Wuschner, Sarah Barrett, Rahul Arun",
-					"opportunities": "Various experimental/analytical fluid mechanics",
-					"website": "mckeon.caltech.edu"
-				}]
-			},
-			{
-				"name": "Applied Physics and Material Science",
-				"link": "http://aphms.caltech.edu/",
-				"faculty": [{
-					"time": "1/21/2020 13:45:25",
-					"name": "Brent Fultz",
-					"depts": "Materials Science",
-					"email": "btf@caltech.edu",
-					"accepting": "Yes",
-					"studentYears": "Sophomore, Junior",
-					"requirements": "There are two possibilities. 1) Computational experience. Not so much writing new code, but sorting out workflows through different packages. 2) Laboratory chemistry. We don't do so much conventional chemical synthesis, but we use plasmas and mechanical deformation to make new materials. There is also an effort to measure physical properties by gas adsorption (think plumbing) and electrochemistry (think batteries).",
-					"students": "",
-					"opportunities": "Usually the undergraduate will work on a research project funded by either NSF or DOE. The project is typically part of a Ph.D. thesis of a graduate student, who needs some help. The work may not be in the critical path, though. Reconfiguring measurement instruments and rewriting the software for them is typical project. Sometimes making electrochemical cells and testing them is a good project, but this usually requires regular presence in the lab.",
-					"website": "http://www.its.caltech.edu/~matsci/btfgrp/BTF_Group1.html"
-				}]
-			},
-			{
-				"name": "Computing and Mathematical Sciences",
-				"link": "http://cms.caltech.edu/",
-				"faculty": [{
-					"time": "1/21/2020 17:18:49",
-					"name": "Oscar P Bruno",
-					"depts": "Applied and Computational Mathematics",
-					"email": "obruno@caltech.du",
-					"accepting": "No",
-					"studentYears": "",
-					"requirements": "",
-					"students": "",
-					"opportunities": "",
-					"website": ""
-				}, {
-					"time": "1/22/2020 11:01:55",
-					"name": "Adam Wierman",
-					"depts": "Computer Science",
-					"email": "adamw@caltech.edu",
-					"accepting": "Yes",
-					"studentYears": "Sophomore, Junior, Senior",
-					"requirements": "It depends on the project, but typically projects require students to have proficiency with programming and experience with algorithms, Game Theory, and optimization.",
-					"students": "",
-					"opportunities": "",
-					"website": "http://rsrg.cms.caltech.edu/"
-				}]
-			},
-			{
-				"name": "Electrical Engineering",
-				"link": "http://ee.caltech.edu/",
-				"faculty": [{
-						"time": "1/21/2020 18:40:32",
-						"name": "Steven Low",
-						"depts": "Electrical Engineering",
-						"email": "slow@caltech.edu",
-						"accepting": "Yes",
-						"studentYears": "Junior, Senior",
-						"requirements": "Math, software.  Ideally power systems ee/cs 135",
-						"students": "Shuyue Yu",
-						"opportunities": "EV charging, smart grids research",
-						"website": "netlab.caltech.edu"
-					},
+				    "time": "1/21/2020 14:33:37",
+				    "name": "Beverley McKeon",
+				    "depts": "Aeronautics",
+				    "email": "mckeon@caltech.edu",
+				    "accepting": "Yes",
+				    "studentYears": "Sophomore, Junior, Senior",
+				    "requirements": "",
+				    "students": "Alex Wuschner, Sarah Barrett, Rahul Arun",
+				    "opportunities": "Various experimental/analytical fluid mechanics",
+				    "website": "mckeon.caltech.edu"
+				  }
+			]
+		},
+		{
+			"name":"Applied Physics and Material Science",
+			"link": "http://aphms.caltech.edu/",
+			"faculty": [
 					{
-						"time": "1/18/2020 14:10:18",
-						"name": "Lihong Wang",
-						"depts": "Electrical Engineering, Medical Engineering",
-						"email": "lvw@caltech.edu",
-						"accepting": "Yes",
-						"studentYears": "Sophomore, Junior, Senior",
-						"requirements": "At least 10 hours/week",
-						"students": "Zixiao Li",
-						"opportunities": "Work with senior lab members on optical imaging to learn and contribute",
-						"website": "http://coilab.caltech.edu/"
-					},
-					{
-						"time": "1/26/2020 15:00:30",
-						"name": "Azita Emami",
-						"depts": "Electrical Engineering, Medical Engineering",
-						"email": "azita@caltech.edu",
-						"accepting": "Yes",
-						"studentYears": "Sophomore, Junior, Senior",
-						"requirements": "EE44, EE45, EE10, basic knowledge of electronic systems",
-						"students": "Grace Ding, Nikhil Pool",
-						"opportunities": "Design and implementation of biomedical devices",
-						"website": "mics.caltech.edu"
-					}
-				]
-			},
-			{
-				"name": "Environmental Science and Engineering",
-				"link": "http://ese.caltech.edu/",
-				"faculty": [
+				    "time": "1/21/2020 13:45:25",
+				    "name": "Brent Fultz",
+				    "depts": "Materials Science",
+				    "email": "btf@caltech.edu",
+				    "accepting": "Yes",
+				    "studentYears": "Sophomore, Junior",
+				    "requirements": "There are two possibilities. 1) Computational experience. Not so much writing new code, but sorting out workflows through different packages. 2) Laboratory chemistry. We don't do so much conventional chemical synthesis, but we use plasmas and mechanical deformation to make new materials. There is also an effort to measure physical properties by gas adsorption (think plumbing) and electrochemistry (think batteries).",
+				    "students": "",
+				    "opportunities": "Usually the undergraduate will work on a research project funded by either NSF or DOE. The project is typically part of a Ph.D. thesis of a graduate student, who needs some help. The work may not be in the critical path, though. Reconfiguring measurement instruments and rewriting the software for them is typical project. Sometimes making electrochemical cells and testing them is a good project, but this usually requires regular presence in the lab.",
+				    "website": "http://www.its.caltech.edu/~matsci/btfgrp/BTF_Group1.html"
+				  }
+			]
+		},
+		{
+			"name":"Computing and Mathematical Sciences",
+			"link": "http://cms.caltech.edu/",
+			"faculty": [
+						{
+					    "time": "1/21/2020 17:18:49",
+					    "name": "Oscar P Bruno",
+					    "depts": "Applied and Computational Mathematics",
+					    "email": "obruno@caltech.du",
+					    "accepting": "No",
+					    "studentYears": "",
+					    "requirements": "",
+					    "students": "",
+					    "opportunities": "",
+					    "website": ""
+					  },
+						{
+					    "time": "1/22/2020 11:01:55",
+					    "name": "Adam Wierman",
+					    "depts": "Computer Science",
+					    "email": "adamw@caltech.edu",
+					    "accepting": "Yes",
+					    "studentYears": "Sophomore, Junior, Senior",
+					    "requirements": "It depends on the project, but typically projects require students to have proficiency with programming and experience with algorithms, Game Theory, and optimization.",
+					    "students": "",
+					    "opportunities": "",
+					    "website": "http://rsrg.cms.caltech.edu/"
+					  }
+			]
+		},
+		{
+			"name":"Electrical Engineering",
+			"link":"http://ee.caltech.edu/",
+			"faculty": [
+						{
+					    "time": "1/21/2020 18:40:32",
+					    "name": "Steven Low",
+					    "depts": "Electrical Engineering",
+					    "email": "slow@caltech.edu",
+					    "accepting": "Yes",
+					    "studentYears": "Junior, Senior",
+					    "requirements": "Math, software.  Ideally power systems ee/cs 135",
+					    "students": "Shuyue Yu",
+					    "opportunities": "EV charging, smart grids research",
+					    "website": "netlab.caltech.edu"
+					  },
+					  {
+					    "time": "1/18/2020 14:10:18",
+					    "name": "Lihong Wang",
+					    "depts": "Electrical Engineering, Medical Engineering",
+					    "email": "lvw@caltech.edu",
+					    "accepting": "Yes",
+					    "studentYears": "Sophomore, Junior, Senior",
+					    "requirements": "At least 10 hours/week",
+					    "students": "Zixiao Li",
+					    "opportunities": "Work with senior lab members on optical imaging to learn and contribute",
+					    "website": "http://coilab.caltech.edu/"
+					  },
+					  {
+					    "time": "1/26/2020 15:00:30",
+					    "name": "Azita Emami",
+					    "depts": "Electrical Engineering, Medical Engineering",
+					    "email": "azita@caltech.edu",
+					    "accepting": "Yes",
+					    "studentYears": "Sophomore, Junior, Senior",
+					    "requirements": "EE44, EE45, EE10, basic knowledge of electronic systems",
+					    "students": "Grace Ding, Nikhil Pool",
+					    "opportunities": "Design and implementation of biomedical devices",
+					    "website": "mics.caltech.edu"
+					  }
+			]
+		},
+		{
+			"name":"Environmental Science and Engineering",
+			"link":"http://ese.caltech.edu/",
+			"faculty": [
 
-				]
-			},
-			{
-				"name": "Mechanical and Civil Engineering",
-				"link": "http://mce.caltech.edu/",
-				"faculty": [{
-					"time": "1/21/2020 15:45:18",
-					"name": "Guillaume Blanquart",
-					"depts": "Mechanical Engineering",
-					"email": "g.blanquart@caltech.edu",
-					"accepting": "Yes",
-					"studentYears": "Freshman, Sophomore, Junior, Senior",
-					"requirements": "Preferred, but not required: basic Linux, Matlab, thermodynamics (ME11a), fluid mechanics (ME 11c).  That being said, I will work with the student(s) and their respective background.",
-					"students": "SURF 2019: Moya Ly, Matthew Szedlock, Limbert Palomino",
-					"opportunities": "Running numerical simulations (anything from chemistry to fluid mechanics).  Analyzing data (often with Matlab).  Applied math (rarely because more background is necessary).",
-					"website": "theforce.caltech.edu"
-				}]
-			}
-		]
-	},
-	{
-		"name": "Geological and Planetary Sciences",
-		"link": "http://www.gps.caltech.edu/",
-		"departments": [{
-				"name": "Geology",
-				"link": "http://web.gps.caltech.edu/options/geology/",
-				"faculty": [{
-						"time": "1/24/2020 14:26:10",
-						"name": "Michael Lamb",
-						"depts": "Geology",
-						"email": "mpl@caltech.edu",
-						"accepting": "Yes",
-						"studentYears": "Freshman, Sophomore, Junior, Senior",
-						"requirements": "ability to work with hands, shop skills, matlab, granular mechanics, earth science, fluid mechanics, engineering",
-						"students": "Sarah Steele",
-						"opportunities": "Help conduct physical experiments on sediment transport in rivers on earth and mars",
-						"website": "https://esp.gps.caltech.edu/"
-					},
+			]
+		},
+		{
+			"name":"Mechanical and Civil Engineering",
+			"link":"http://mce.caltech.edu/",
+			"faculty": [
+					{
+				    "time": "1/21/2020 15:45:18",
+				    "name": "Guillaume Blanquart",
+				    "depts": "Mechanical Engineering",
+				    "email": "g.blanquart@caltech.edu",
+				    "accepting": "Yes",
+				    "studentYears": "Freshman, Sophomore, Junior, Senior",
+				    "requirements": "Preferred, but not required: basic Linux, Matlab, thermodynamics (ME11a), fluid mechanics (ME 11c).  That being said, I will work with the student(s) and their respective background.",
+				    "students": "SURF 2019: Moya Ly, Matthew Szedlock, Limbert Palomino",
+				    "opportunities": "Running numerical simulations (anything from chemistry to fluid mechanics).  Analyzing data (often with Matlab).  Applied math (rarely because more background is necessary).",
+				    "website": "theforce.caltech.edu"
+				  }
+			]
+		}
+	]
+},
+{
+	"name": "Geological and Planetary Sciences",
+	"link": "http://www.gps.caltech.edu/",
+	"departments": [
+		{
+			"name": "Geology",
+			"link": "http://web.gps.caltech.edu/options/geology/",
+			"faculty": [
+					{
+				    "time": "1/24/2020 14:26:10",
+				    "name": "Michael Lamb",
+				    "depts": "Geology",
+				    "email": "mpl@caltech.edu",
+				    "accepting": "Yes",
+				    "studentYears": "Freshman, Sophomore, Junior, Senior",
+				    "requirements": "ability to work with hands, shop skills, matlab, granular mechanics, earth science, fluid mechanics, engineering",
+				    "students": "Sarah Steele",
+				    "opportunities": "Help conduct physical experiments on sediment transport in rivers on earth and mars",
+				    "website": "https://esp.gps.caltech.edu/"
+				  },
+				  {
+				    "time": "1/22/2020 23:42:18",
+				    "name": "Francois Tissot",
+				    "depts": "Geology, Geochemistry",
+				    "email": "tissot@caltech.edu",
+				    "accepting": "Yes",
+				    "studentYears": "Freshman, Sophomore, Junior, Senior",
+				    "requirements": "Either a strong quantitative background for modeling projets, or a great potential for lab work (strong critical thinking, attention to details, tidiness and dexterity)",
+				    "students": "",
+				    "opportunities": "Isotope geo and cosmochemistry related projects, modeling or measurements (or both)",
+				    "website": "https://www.gps.caltech.edu/people/francois-tissot"
+				  }
+			]
+		},
+		{
+			"name": "Geobiology",
+			"link": "http://web.gps.caltech.edu/options/geobiology/",
+			"faculty": [
+
+			]
+		},
+		{
+			"name": "Geochemistry",
+			"link": "http://web.gps.caltech.edu/options/geochemistry/",
+			"faculty": [
 					{
 						"time": "1/22/2020 23:42:18",
 						"name": "Francois Tissot",
@@ -514,112 +580,201 @@
 						"opportunities": "Isotope geo and cosmochemistry related projects, modeling or measurements (or both)",
 						"website": "https://www.gps.caltech.edu/people/francois-tissot"
 					}
-				]
-			},
-			{
-				"name": "Geobiology",
-				"link": "http://web.gps.caltech.edu/options/geobiology/",
-				"faculty": [
+			]
+		},
+		{
+			"name": "Geophysics",
+			"link": "http://www.seismolab.caltech.edu/research.html",
+			"faculty": [
 
-				]
-			},
-			{
-				"name": "Geochemistry",
-				"link": "http://web.gps.caltech.edu/options/geochemistry/",
-				"faculty": [
+			]
+		},
+		{
+			"name": "Planetary Sciences",
+			"link": "http://web.gps.caltech.edu/options/planetary/",
+			"faculty": [
 
-				]
-			},
-			{
-				"name": "Geophysics",
-				"link": "http://www.seismolab.caltech.edu/research.html",
-				"faculty": [
+			]
+		},
+		{
+			"name": "Environmental Science and Engineering",
+			"link": "http://www.ese.caltech.edu/",
+			"faculty": [
 
-				]
-			},
-			{
-				"name": "Planetary Sciences",
-				"link": "http://web.gps.caltech.edu/options/planetary/",
-				"faculty": [
-
-				]
-			},
-			{
-				"name": "Environmental Science and Engineering",
-				"link": "http://www.ese.caltech.edu/",
-				"faculty": [
-
-				]
-			}
-		]
-	},
-	{
-		"name": "Humanities and Social Sciences",
-		"link": "http://www.hss.caltech.edu/",
-		"departments": [{
-				"name": "Humanities",
-				"link": "http://www.hss.caltech.edu/research/humanities-research/research-areas",
-				"faculty": [{
-					"time": "1/21/2020 15:44:24",
-					"name": "Diana Kormos Buchwald",
-					"depts": "History",
-					"email": "diana_buchwald@caltech.edu",
-					"accepting": "Yes",
-					"studentYears": "Freshman, Sophomore, Junior, Senior",
-					"requirements": "MS Office; Adobe; Excel; knowledge of physics and or history desirable but not necessary.",
-					"students": "Maggie Anderson, Madison Lee, Camilla Ora, Alex Guerra, Hongsing",
-					"opportunities": "Various projects requiring research into libraries; coding and database work; image recognition techniques",
-					"website": "einstein.caltech.edu"
-				}]
-			},
-			{
-				"name": "Social Sciences",
-				"link": "http://www.hss.caltech.edu/research/social-sciences-research/research-areas",
-				"faculty": [{
-					"time": "1/21/2020 14:12:16",
-					"name": "Robert Sherman",
-					"depts": "Economics",
-					"email": "sherman@amdg.caltech.edu",
-					"accepting": "No",
-					"studentYears": "",
-					"requirements": "",
-					"students": "",
-					"opportunities": "",
-					"website": "https://www.hss.caltech.edu/people/robert-p-bob-sherman"
-				}]
-			}
-		]
-	},
-	{
-		"name": "Physics, Mathematics, and Astronomy",
-		"link": "http://www.pma.caltech.edu/",
-		"departments": [{
-				"name": "Physics",
-				"link": "http://www.pma.caltech.edu/research-and-academics/physics/physics-research",
-				"faculty": [{
-						"time": "1/21/2020 12:06:20",
-						"name": "Paul Bellan",
-						"depts": "Physics",
-						"email": "pbellan@caltech.edu",
+			]
+		}
+	]
+},
+{
+	"name": "Humanities and Social Sciences",
+	"link": "http://www.hss.caltech.edu/",
+	"departments": [
+		{
+			"name": "Humanities",
+			"link": "http://www.hss.caltech.edu/research/humanities-research/research-areas",
+			"faculty": [
+					{
+				    "time": "1/21/2020 15:44:24",
+				    "name": "Diana Kormos Buchwald",
+				    "depts": "History",
+				    "email": "diana_buchwald@caltech.edu",
+				    "accepting": "Yes",
+				    "studentYears": "Freshman, Sophomore, Junior, Senior",
+				    "requirements": "MS Office; Adobe; Excel; knowledge of physics and or history desirable but not necessary.",
+				    "students": "Maggie Anderson, Madison Lee, Camilla Ora, Alex Guerra, Hongsing",
+				    "opportunities": "Various projects requiring research into libraries; coding and database work; image recognition techniques",
+				    "website": "einstein.caltech.edu"
+				  }
+			]
+		},
+		{
+			"name": "Social Sciences",
+			"link": "http://www.hss.caltech.edu/research/social-sciences-research/research-areas",
+			"faculty": [
+					{
+				    "time": "1/21/2020 14:12:16",
+				    "name": "Robert Sherman",
+				    "depts": "Economics",
+				    "email": "sherman@amdg.caltech.edu",
+				    "accepting": "No",
+				    "studentYears": "",
+				    "requirements": "",
+				    "students": "",
+				    "opportunities": "",
+				    "website": "https://www.hss.caltech.edu/people/robert-p-bob-sherman"
+				  },
+					{
+						"time": "1/21/2020 19:23:12",
+						"name": "Ralph Adolphs",
+						"depts": "Biology, Psychology",
+						"email": "radolphs@caltech.edu",
 						"accepting": "Yes",
 						"studentYears": "Freshman, Sophomore, Junior, Senior",
-						"requirements": "Computer skills with large data sets, some physics knowledge",
-						"students": "",
-						"opportunities": "In a new initiative between Caltech and Los Alamos National Lab (LANL),   existing experimental sets of kink instability data collected at Caltech over the past years will be archived in a manner that machine learning (ML) techniques can be applied to them. The  goal is to demonstrate ML for studying the kink instability physics, such as prediction of kink rise time and growth rate, and to compare the results with theory and simulations. \n\nAs a first step, the existing Caltech datasets will be archived by a Caltech undergraduate at a shared drive or multiple mirror sites at Caltech and LANL. The archiving effort include turning the raw data into the uniform format of .tif without resolution reduction from the originals, and documenting the experimental conditions for each data set in Word and/or Excel including X-ray images, related diagnostic data and experimental conditions.",
-						"website": "http://www.bellanplasmagroup.caltech.edu"
-					},
+						"requirements": "Must have coding experience, preferably in Python",
+						"students": "Rae Moar, Louis Santos, Roshan Bal, Isabella Camplisson",
+						"opportunities": "Working on human data, likely either brain imaging data and/or eyetracking data; applying machine learning algorithms to find patterns in the data.  Will work with graduate students and/or post-docs in the lab.",
+						"website": "emotion.caltech.edu"
+					}
+			]
+		}
+	]
+},
+{
+	"name": "Physics, Mathematics, and Astronomy",
+	"link": "http://www.pma.caltech.edu/",
+	"departments": [
+		{
+			"name": "Physics",
+			"link": "http://www.pma.caltech.edu/research-and-academics/physics/physics-research",
+			"faculty": [
 					{
-						"time": "1/27/2020 11:18:29",
-						"name": "Rana Adhikari",
-						"depts": "Physics",
-						"email": "rana@caltech.edu",
-						"accepting": "Yes",
-						"studentYears": "Sophomore, Junior",
-						"requirements": "Curiosity! .....also good to have interest/experience in lasers, electronics, control systems, signal processing",
-						"students": "",
-						"opportunities": "Laser interferometry, low noise measurements,",
-						"website": "https://caltechexperimentalgravity.github.io"
-					},
+			    "time": "1/21/2020 12:06:20",
+			    "name": "Paul Bellan",
+			    "depts": "Physics",
+			    "email": "pbellan@caltech.edu",
+			    "accepting": "Yes",
+			    "studentYears": "Freshman, Sophomore, Junior, Senior",
+			    "requirements": "Computer skills with large data sets, some physics knowledge",
+			    "students": "",
+			    "opportunities": "In a new initiative between Caltech and Los Alamos National Lab (LANL),   existing experimental sets of kink instability data collected at Caltech over the past years will be archived in a manner that machine learning (ML) techniques can be applied to them. The  goal is to demonstrate ML for studying the kink instability physics, such as prediction of kink rise time and growth rate, and to compare the results with theory and simulations. \n\nAs a first step, the existing Caltech datasets will be archived by a Caltech undergraduate at a shared drive or multiple mirror sites at Caltech and LANL. The archiving effort include turning the raw data into the uniform format of .tif without resolution reduction from the originals, and documenting the experimental conditions for each data set in Word and/or Excel including X-ray images, related diagnostic data and experimental conditions.",
+			    "website": "http://www.bellanplasmagroup.caltech.edu"
+			  },
+			  {
+			    "time": "1/27/2020 11:18:29",
+			    "name": "Rana Adhikari",
+			    "depts": "Physics",
+			    "email": "rana@caltech.edu",
+			    "accepting": "Yes",
+			    "studentYears": "Sophomore, Junior",
+			    "requirements": "Curiosity! .....also good to have interest/experience in lasers, electronics, control systems, signal processing",
+			    "students": "",
+			    "opportunities": "Laser interferometry, low noise measurements,",
+			    "website": "https://caltechexperimentalgravity.github.io"
+			  },
+			  {
+			    "time": "1/21/2020 21:40:39",
+			    "name": "Jim Fuller",
+			    "depts": "Physics, Astronomy",
+			    "email": "jfuller@caltech.edu",
+			    "accepting": "No",
+			    "studentYears": "",
+			    "requirements": "",
+			    "students": "",
+			    "opportunities": "",
+			    "website": ""
+			  },
+				{
+					"time": "1/21/2020 13:34:20",
+					"name": "Scott Cushing",
+					"depts": "Chemistry, Physics",
+					"email": "scushing@caltech.edu",
+					"accepting": "Yes",
+					"studentYears": "Freshman, Sophomore, Junior, Senior",
+					"requirements": "Judged on an individual  basis",
+					"students": "Alex Krotz",
+					"opportunities": "Contribute to lab on laser-based instrumentation building, involving entangled photons or ultrafast xray pulses, or the theory of the related spectra",
+					"website": "cushinglab.caltech.edu"
+				}
+			]
+		},
+		{
+			"name": "Mathematics",
+			"link": "http://www.pma.caltech.edu/research-and-academics/mathematics/math-research",
+			"faculty": [
+					{
+				    "time": "1/15/2020 11:22:20",
+				    "name": "Matthias Flach",
+				    "depts": "Mathematics",
+				    "email": "flach@caltech.edu",
+				    "accepting": "No",
+				    "studentYears": "Sophomore, Junior, Senior",
+				    "requirements": "",
+				    "students": "",
+				    "opportunities": "",
+				    "website": ""
+				  }
+			]
+		},
+		{
+			"name": "Astronomy",
+			"link": "http://www.astro.caltech.edu/research/",
+			"faculty": [
+					{
+				    "time": "1/21/2020 14:29:05",
+				    "name": "Lynne Hillenbrand",
+				    "depts": "Astronomy",
+				    "email": "lah@astro.caltech.edu",
+				    "accepting": "Yes",
+				    "studentYears": "Sophomore, Junior, Senior",
+				    "requirements": "basic computing and statistics knowledge; prefer ay20",
+				    "students": "Arlindo Chan Borges ; Alix Reeves; Philip Carr",
+				    "opportunities": "Analysis of astronomical spectra and photometry of young stars.",
+				    "website": ""
+				  },
+				  {
+				    "time": "1/21/2020 20:37:28",
+				    "name": "Evan Kirby",
+				    "depts": "Astronomy",
+				    "email": "enk@astro.caltech.edu",
+				    "accepting": "Yes",
+				    "studentYears": "Sophomore, Junior, Senior",
+				    "requirements": "proficiency in Unix and Python",
+				    "students": "AJ Nielsen, Tawny Sit, Gianluca Delgado, Joshua Anderson, Noah Yared",
+				    "opportunities": "Opportunities to work with spectroscopy from the Keck telescopes and to simulate spectroscopy from the upcoming Prime Focus Spectrograph on the Subaru Telescope.  Measure the compositions of stars and the dark matter content of galaxies.  All research opportunities involve heavy doses of programming and statistics.",
+				    "website": "https://galacticarchaeology.caltech.edu/"
+				  },
+				  {
+				    "time": "1/21/2020 14:01:34",
+				    "name": "Philip Hopkins",
+				    "depts": "Astrophysics",
+				    "email": "phopkins@caltech.edu",
+				    "accepting": "Yes",
+				    "studentYears": "Freshman, Sophomore, Junior, Senior",
+				    "requirements": "Some interest in astronomy and physics, ideally some background in those areas (but not required). Some familiarity with basic coding (e.g. Python or C), sufficient to make a plot or read a file, is required, more advanced coding backgrounds encouraged (increasing the range of possible projects).",
+				    "students": "Dhruv Muley (SURF 2019), Grace Lawrence (Summer 2018), Anise Rau (SURF 2018), Andrew Rothstein (SURF 2018), Tianyi (Amy) Hu (Senior thesis 2016), Clarke Esmerian (Senior thesis 2016), Matthias Raives (Senior thesis 2015), Daniel Cushey (SURF 2017), Ben Calvin (SURF 2017), Stefania Moroianu (CamSURF 2017), Eric Moseley (Senior thesis 2017), Rafae Fuyo-Gomez (SURF 2016), Gefei Dang (SURF 2016), Charles Watson (SURF 2016).",
+				    "opportunities": "Our group studies the formation of planets, stars, galaxies, and black holes, and astrophysical fluid dynamics, primarily using numerical simulations. Students working with us have worked on a wide range of projects over the last few years: most involve running or analyzing simulations of some astrophysical phenomena (e.g. a cosmological simulation of galaxies forming), and trying to understand the physics that gives rise to some observed phenomenon (either by exploring simulations with different physical laws or parameters, and/or via comparison to state-of-the-art observations). Students always work with myself and a postdoc or advanced graduate student as co-mentors.",
+				    "website": "http://www.tapir.caltech.edu/~phopkins"
+				  },
 					{
 						"time": "1/21/2020 21:40:39",
 						"name": "Jim Fuller",
@@ -632,67 +787,8 @@
 						"opportunities": "",
 						"website": ""
 					}
-				]
-			},
-			{
-				"name": "Mathematics",
-				"link": "http://www.pma.caltech.edu/research-and-academics/mathematics/math-research",
-				"faculty": [{
-					"time": "1/15/2020 11:22:20",
-					"name": "Matthias Flach",
-					"depts": "Mathematics",
-					"email": "flach@caltech.edu",
-					"accepting": "No",
-					"studentYears": "Sophomore, Junior, Senior",
-					"requirements": "",
-					"students": "",
-					"opportunities": "",
-					"website": ""
-				}]
-			},
-			{
-				"name": "Astronomy",
-				"link": "http://www.astro.caltech.edu/research/",
-				"faculty": [{
-						"time": "1/21/2020 14:29:05",
-						"name": "Lynne Hillenbrand",
-						"depts": "Astronomy",
-						"email": "lah@astro.caltech.edu",
-						"accepting": "Yes",
-						"studentYears": "Sophomore, Junior, Senior",
-						"requirements": "basic computing and statistics knowledge; prefer ay20",
-						"students": "Arlindo Chan Borges ; Alix Reeves; Philip Carr",
-						"opportunities": "Analysis of astronomical spectra and photometry of young stars.",
-						"website": ""
-					},
-					{
-						"time": "1/21/2020 20:37:28",
-						"name": "Evan Kirby",
-						"depts": "Astronomy",
-						"email": "enk@astro.caltech.edu",
-						"accepting": "Yes",
-						"studentYears": "Sophomore, Junior, Senior",
-						"requirements": "proficiency in Unix and Python",
-						"students": "AJ Nielsen, Tawny Sit, Gianluca Delgado, Joshua Anderson, Noah Yared",
-						"opportunities": "Opportunities to work with spectroscopy from the Keck telescopes and to simulate spectroscopy from the upcoming Prime Focus Spectrograph on the Subaru Telescope.  Measure the compositions of stars and the dark matter content of galaxies.  All research opportunities involve heavy doses of programming and statistics.",
-						"website": "https://galacticarchaeology.caltech.edu/"
-					},
-					{
-						"time": "1/21/2020 14:01:34",
-						"name": "Philip Hopkins",
-						"depts": "Astrophysics",
-						"email": "phopkins@caltech.edu",
-						"accepting": "Yes",
-						"studentYears": "Freshman, Sophomore, Junior, Senior",
-						"requirements": "Some interest in astronomy and physics, ideally some background in those areas (but not required). Some familiarity with basic coding (e.g. Python or C), sufficient to make a plot or read a file, is required, more advanced coding backgrounds encouraged (increasing the range of possible projects).",
-						"students": "Dhruv Muley (SURF 2019), Grace Lawrence (Summer 2018), Anise Rau (SURF 2018), Andrew Rothstein (SURF 2018), Tianyi (Amy) Hu (Senior thesis 2016), Clarke Esmerian (Senior thesis 2016), Matthias Raives (Senior thesis 2015), Daniel Cushey (SURF 2017), Ben Calvin (SURF 2017), Stefania Moroianu (CamSURF 2017), Eric Moseley (Senior thesis 2017), Rafae Fuyo-Gomez (SURF 2016), Gefei Dang (SURF 2016), Charles Watson (SURF 2016).",
-						"opportunities": "Our group studies the formation of planets, stars, galaxies, and black holes, and astrophysical fluid dynamics, primarily using numerical simulations. Students working with us have worked on a wide range of projects over the last few years: most involve running or analyzing simulations of some astrophysical phenomena (e.g. a cosmological simulation of galaxies forming), and trying to understand the physics that gives rise to some observed phenomenon (either by exploring simulations with different physical laws or parameters, and/or via comparison to state-of-the-art observations). Students always work with myself and a postdoc or advanced graduate student as co-mentors.",
-						"website": "http://www.tapir.caltech.edu/~phopkins"
-					}
-				]
-			}
-		]
-	}
-
-
+			]
+		}
+	]
+}
 ]
