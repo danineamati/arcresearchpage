@@ -200,8 +200,9 @@ function makeCard(id, prof, deptNameID) {
 
 	var profDepts = document.createElement("div");
 	profDepts.className = 'profDepts';
-	deptsStr = '<p>' + prof.depts + '<br>';
-	
+	var deptsReplaced = prof.depts.replace(/,/g, '<br>')
+	deptsStr = '<p>' + deptsReplaced + '<br>'; //+ prof.depts + '<br>';
+
 	// for (dept of prof.depts) {
 	// 	deptsStr = deptsStr + dept + '<br>'
 	// }
