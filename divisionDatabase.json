@@ -493,7 +493,20 @@
 					    "students": "Grace Ding, Nikhil Pool",
 					    "opportunities": "Design and implementation of biomedical devices",
 					    "website": "mics.caltech.edu"
-					  }
+					  },
+					  {
+                        "time": "2/27/2020 13:13:22",
+                        "name": "Michelle Effros",
+                        "depts": "Electrical Engineering",
+                        "email": "effros@caltech.edu",
+                        "accepting": "Yes",
+                        "studentYears": "Junior, Senior",
+                        "requirements": "Strong mathematical skills -- with specific strengths in mathematical proofs using tools from probability and linear algebra.  Demonstrated interest in biology and especially neuroscience is a plus.",
+                        "students": "",
+                        "opportunities": "Investigation of the performance of probabilistic models of neurons and their relationship to basic brain functions.",
+                        "website": ""
+                    }
+
 			]
 		},
 		{
@@ -565,7 +578,7 @@
 				    "requirements": "1) computer programming appropriate to numerical and statistical modeling (including machine learning) and GUI's; 2) synthetic chemistry; 3) analytical chemistry and geochemistry; 4) first-principles computational chemistry",
 				    "students": "",
 				    "opportunities": "Contributions to the study of molecular isotopic structures of natural and synthetic materials, with applications to prebiotic chemistry, origin and early evolution of life, biogeochemistry, and fundamental chemistry of isotopes",
-				    "website": "https://www.gps.caltech.edu/people/francois-tissot"
+				    "website": ""
 				  }
 			]
 		},
@@ -573,7 +586,18 @@
 			"name": "Geobiology",
 			"link": "http://web.gps.caltech.edu/options/geobiology/",
 			"faculty": [
-
+				{
+				  "time": "2/28/2020 09:12:42",
+				  "name": "Dianne Newman",
+				  "depts": "Geobiology, Environmental Science and Engineering",
+				  "email": "dkn@caltech.edu",
+				  "accepting": "Yes",
+				  "studentYears": "Freshman, Sophomore, Junior, Senior",
+				  "requirements": "academic interests: microbiology, genetics, (bio)chemistry, quantitative biology; personal qualities: maturity, strong worth ethic, reliability, enthusiasm",
+				  "students": "Jade Livingston, Hazel Dilmore",
+				  "opportunities": "My laboratory studies how microbes thrive when oxygen is scarce. We study the cellular and molecular strategies that enable them to do this, motivated by contexts ranging from chronic infections to the rhizosphere (soil near the roots of plants). Specific opportunities will be matched to the interests/skills of the student.Â ",
+				  "website": "http://dknweb.caltech.edu/Newman_Lab.html"
+				 }
 			]
 		},
 		{
@@ -591,6 +615,18 @@
 						"students": "",
 						"opportunities": "Isotope geo and cosmochemistry related projects, modeling or measurements (or both)",
 						"website": "https://www.gps.caltech.edu/people/francois-tissot"
+					},
+					{
+					    "time": "1/22/2020 23:42:18",
+					    "name": "John Eiler",
+					    "depts": "Geology, Geochemistry",
+					    "email": "eiler@gps.caltech.edu",
+					    "accepting": "Yes",
+					    "studentYears": "Freshman, Sophomore, Junior, Senior",
+					    "requirements": "1) computer programming appropriate to numerical and statistical modeling (including machine learning) and GUI's; 2) synthetic chemistry; 3) analytical chemistry and geochemistry; 4) first-principles computational chemistry",
+					    "students": "",
+					    "opportunities": "Contributions to the study of molecular isotopic structures of natural and synthetic materials, with applications to prebiotic chemistry, origin and early evolution of life, biogeochemistry, and fundamental chemistry of isotopes",
+					    "website": ""
 					}
 			]
 		},
@@ -612,7 +648,29 @@
 			"name": "Environmental Science and Engineering",
 			"link": "http://www.ese.caltech.edu/",
 			"faculty": [
-
+				{
+				    "name": "Andy Thompson",
+				    "depts": "Environmental Science and Engineering",
+				    "email": "andrewt@caltech.edu",
+				    "accepting": "Yes",
+				    "studentYears": "Freshman, Sophomore, Junior, Senior",
+				    "requirements": "Helpful if taken ESE 102, but not required.",
+				    "students": "",
+				    "opportunities": "Activities will depend on the research project.  Most of the work involves working with idealized models of the ocean's circulation and/or working with ocean data sets.  The latter includes both remote sensing products and data sets collected by autonomous vehicles.",
+				    "website": "http://web.gps.caltech.edu/~andrewt/"
+				},
+				{
+				  "time": "2/28/2020 09:12:42",
+				  "name": "Dianne Newman",
+				  "depts": "Geobiology, Environmental Science and Engineering",
+				  "email": "dkn@caltech.edu",
+				  "accepting": "Yes",
+				  "studentYears": "Freshman, Sophomore, Junior, Senior",
+				  "requirements": "academic interests: microbiology, genetics, (bio)chemistry, quantitative biology; personal qualities: maturity, strong worth ethic, reliability, enthusiasm",
+				  "students": "Jade Livingston, Hazel Dilmore",
+				  "opportunities": "My laboratory studies how microbes thrive when oxygen is scarce. We study the cellular and molecular strategies that enable them to do this, motivated by contexts ranging from chronic infections to the rhizosphere (soil near the roots of plants). Specific opportunities will be matched to the interests/skills of the student.Â ",
+				  "website": "http://dknweb.caltech.edu/Newman_Lab.html"
+				 }
 			]
 		}
 	]
