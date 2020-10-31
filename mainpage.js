@@ -22,7 +22,7 @@
 
 // TO RUN LOCALLY, navigate to folder and (using nodejs)
 // run "npm install -g live-server"
-// To actually run the server, "live-server"
+// To actually run the server, type "live-server"
 
 
 // First we want to load the navigation bar...
@@ -118,9 +118,11 @@ xhttp.send();
 
 
 // "Fake Class for testing"
+// There is almost certainly a cleaner way of wrtiting this (i.e. with a
+// helper function that checks the logical statement).
 class singleProf {
 	constructor(name, email, depts, accepting,
-	studentYears, requirements, students, opportunities) {
+	studentYears, requirements, students, remote, opportunities) {
 		if (name != undefined) {this.name = name} 
 			else {this.name = "Not Listed"};
 		if (email != undefined) {this.email = email} 
@@ -135,6 +137,8 @@ class singleProf {
 			else {this.requirements = "Not Listed"};
 		if (students != undefined) {this.students = students} 
 			else {this.students = "Not Listed"};
+		if (remote != undefined) {this.remote = remote} 
+			else {this.remote = "Not Listed"};
 		if (opportunities != undefined) {this.opportunities = opportunities} 
 			else {this.opportunities = "Not Listed"};
 	}
@@ -243,21 +247,34 @@ function makeCard(id, prof, deptNameID) {
 	studStr = studStr.replace(',', '');
 	students.innerHTML = studStr;
 
-	// Fourth, Current Opportunities
+	// Fourth, Remote Opportunities (remove when back to normal)
+	var remote = document.createElement("p")
+	remote.innerHTML = "<b>Virtual Opportunities: </b>" 
+									+ prof.remote;
+
+	// Fifth, Current Opportunities
 	var opportunities = document.createElement("p")
 	opportunities.innerHTML =  "<b>Current Opportunities: </b>" 
 									+ prof.opportunities;
 
-	// Fifth, website
+	// Sixth, website
 	var website = document.createElement("p")
 	website.innerHTML = "<b>Website: </b>" + prof.website;
+
+	// Seventh, website
+	var lastupdate = document.createElement("p")
+	lastupdate.innerHTML = "<b>Entry Most Recently Revised As Of: </b>" 
+									+ prof.lastupdate;
+
 
 
 	thisCard.appendChild(studentYears);
 	thisCard.appendChild(requirements);
 	thisCard.appendChild(students);
+	thisCard.appendChild(remote);
 	thisCard.appendChild(opportunities);
 	thisCard.appendChild(website);
+	thisCard.appendChild(lastupdate);
 
 	document.getElementById(id).appendChild(thisCard);
 }
@@ -280,7 +297,13 @@ function removeAllOfId(elementId) {
 function instructionText(id) {
 	var element = document.getElementById(id);
 
-	var instructions = "<br>Please click any department at left <br> to begin viewing results.";
+	var instructions = // "<br>Please click any department at LEFT!! <br> to begin viewing results.";
+						"<br>Please click any department at left <br>" + 
+						" to begin viewing results. <br><br>" + 
+						" If no entries are listed, none of the professors <br>" +
+						" from that department have replied <br>" + 
+						"to our call for opportunities.";
+
 	// console.log("Checking instructions");
 
 	if (element === null) {

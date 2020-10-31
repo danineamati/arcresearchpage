@@ -7,7 +7,7 @@
 			"link": "http://www.bbe.caltech.edu/research/biochemistry-structural-and-molecular-cell-biology",
 			"faculty": [
 				  {
-				    "time": "1/22/2020 23:54:39",
+				    "lastupdate": "1/22/2020",
 				    "name": "Justin Bois",
 				    "depts": "Bioengineering, Biology",
 				    "email": "bois@caltech.edu",
@@ -15,11 +15,12 @@
 				    "studentYears": "",
 				    "requirements": "",
 				    "students": "",
+				    "remote": "",
 				    "opportunities": "",
 				    "website": ""
 				  },
 				  {
-				    "time": "1/21/2020 13:28:00",
+				    "lastupdate": "1/21/2020",
 				    "name": "David Chan",
 				    "depts": "Biology",
 				    "email": "dchan@caltech.edu",
@@ -27,11 +28,12 @@
 				    "studentYears": "Sophomore, Junior, Senior",
 				    "requirements": "Bi8, Bi9",
 				    "students": "",
+				    "remote": "Yes",
 				    "opportunities": "molecular biology, cell biology",
 				    "website": "http://chanlab.caltech.edu"
 				  },
 				  {
-				    "time": "1/21/2020 13:28:31",
+				    "lastupdate": "1/21/2020",
 				    "name": "Dennis Dougherty",
 				    "depts": "Biology",
 				    "email": "dadougherty@caltech.edu",
@@ -43,7 +45,7 @@
 				    "website": ""
 				  },
 				  {
-				    "time": "1/21/2020 14:02:17",
+				    "lastupdate": "1/21/2020",
 				    "name": "Andre Hoelz",
 				    "depts": "Biology",
 				    "email": "hoelz@caltech.edu",
@@ -55,7 +57,7 @@
 				    "website": "ahweb.caltech.edu"
 				  },
 				  {
-				    "time": "1/21/2020 14:09:51",
+				    "lastupdate": "1/21/2020",
 				    "name": "Carlos Lois",
 				    "depts": "Biology",
 				    "email": "clois@caltech.edu",
@@ -67,7 +69,7 @@
 				    "website": "http://theloislab.com"
 				  },
 				  {
-				    "time": "1/21/2020 14:47:35",
+				    "lastupdate": "1/21/2020",
 				    "name": "Niles Pierce",
 				    "depts": "Biology",
 				    "email": "niles@caltech.edu",
@@ -79,7 +81,7 @@
 				    "website": "www.piercelab.caltech.edu"
 				  },
 				  {
-				    "time": "1/21/2020 17:01:48",
+				    "lastupdate": "1/21/2020",
 				    "name": "Paul Sternberg",
 				    "depts": "Biology",
 				    "email": "pws@caltech.edu",
@@ -91,7 +93,7 @@
 				    "website": "Wormlab@caltech.edu"
 				  },
 				  {
-				    "time": "1/22/2020 20:09:10",
+				    "lastupdate": "1/22/2020",
 				    "name": "Kai Zinn",
 				    "depts": "Biology",
 				    "email": "zinnk@caltech.edu",
@@ -103,7 +105,7 @@
 				    "website": "https://www.its.caltech.edu/~zinnlab/research.html"
 				  },
 				  {
-				    "time": "1/23/2020 12:49:15",
+				    "lastupdate": "1/23/2020",
 				    "name": "Elliot Meyerowitz",
 				    "depts": "Biology",
 				    "email": "meyerow@caltech.edu",
@@ -115,7 +117,7 @@
 				    "website": "http://www.its.caltech.edu/~plantlab/"
 				  },
 				  {
-				    "time": "1/23/2020 13:46:04",
+				    "lastupdate": "1/23/2020",
 				    "name": "David Prober",
 				    "depts": "Biology",
 				    "email": "dprober@caltech.edu",
@@ -127,7 +129,7 @@
 				    "website": "proberlab.caltech.edu"
 				  },
 				  {
-				    "time": "1/24/2020 16:18:34",
+				    "lastupdate": "1/24/2020",
 				    "name": "Elliot Meyerowitz",
 				    "depts": "Biology",
 				    "email": "meyerow@caltech.edu",
@@ -139,7 +141,7 @@
 				    "website": "http://www.its.caltech.edu/~plantlab/"
 				  },
 				  {
-				    "time": "1/30/2020 23:25:38",
+				    "lastupdate": "1/30/2020",
 				    "name": "Joseph Parker",
 				    "depts": "Biology",
 				    "email": "joep@caltech.edu",
@@ -151,7 +153,7 @@
 				    "website": "beetles.caltech.edu"
 				  },
 				  {
-				    "time": "1/22/2020 6:03:34",
+				    "lastupdate": "1/22/2020",
 				    "name": "Carol Readhead",
 				    "depts": "Biology, Bioengineering",
 				    "email": "readhead@caltech.edu",
@@ -163,7 +165,7 @@
 				    "website": ""
 				  },
 				  {
-				    "time": "1/21/2020 17:23:50",
+				    "lastupdate": "1/21/2020",
 				    "name": "Elizabeth Hong",
 				    "depts": "Biology, Neuroscience",
 				    "email": "ejhong@caltech.edu",
@@ -175,7 +177,7 @@
 				    "website": "ejhonglab.org"
 				  },
 				  {
-				    "time": "1/23/2020 15:18:08",
+				    "lastupdate": "1/23/2020",
 				    "name": "Shinsuke Shimojo",
 				    "depts": "Biology, Neuroscience",
 				    "email": "sshimojo@caltech.edu",
@@ -187,7 +189,7 @@
 				    "website": "https://neuro.caltech.edu"
 				  },
 				  {
-				    "time": "3/9/2020 10:06:11",
+				    "lastupdate": "3/9/2020",
 				    "name": "Markus Meister and Zeynep Turan",
 				    "depts": "Biology, Neuroscience",
 				    "email": "meister@caltech.edu",
@@ -199,7 +201,7 @@
 				    "website": "https://meisterlab.caltech.edu"
 				  },
 				  {
-				    "time": "1/21/2020 19:23:12",
+				    "lastupdate": "1/21/2020",
 				    "name": "Ralph Adolphs",
 				    "depts": "Biology, Psychology",
 				    "email": "radolphs@caltech.edu",
@@ -217,7 +219,7 @@
 			"link": "http://www.bbe.caltech.edu/research/biological-engineering",
 			"faculty": [
 					{
-				    "time": "1/25/2020 10:24:30",
+				    "lastupdate": "1/25/2020",
 				    "name": "Richard Murray",
 				    "depts": "Control and Dynamical Systems, Bioengineering",
 				    "email": "murray@cds.caltech.edu",
@@ -227,9 +229,9 @@
 				    "students": "Liana Merk, Sophie Walton, Shuyue Yu, Victoria Chen, JD Walker",
 				    "opportunities": "My group's research is in the application of feedback and control to networked systems, with applications in biology and autonomy. Current projects include work on biomolecular feedback systems, novel architectures for control systems, and networked control systems.",
 				    "website": "https://www.cds.caltech.edu/~murray"
-				  },
+				    },
 					{
-					    "time": "1/15/2020 11:39:34",
+					    "lastupdate": "1/15/2020",
 					    "name": "Bil Clemons",
 					    "depts": "Bioengineering",
 					    "email": "clemons@caltech.edu",
@@ -241,7 +243,7 @@
 					    "website": "clemonslab.caltech.edu"
 					  },
 					  {
-					    "time": "1/15/2020 22:41:41",
+					    "lastupdate": "1/15/2020",
 					    "name": "Lea Goentoro",
 					    "depts": "Bioengineering",
 					    "email": "goentoro@caltech.edu",
@@ -253,7 +255,7 @@
 					    "website": "https://goentoro.caltech.edu"
 					  },
 					  {
-					    "time": "1/22/2020 23:54:39",
+					    "lastupdate": "1/22/2020",
 					    "name": "Justin Bois",
 					    "depts": "Bioengineering, Biology",
 					    "email": "bois@caltech.edu",
@@ -265,7 +267,7 @@
 					    "website": ""
 					  },
 						{
-							"time": "1/22/2020 6:03:34",
+							"lastupdate": "1/22/2020",
 							"name": "Carol Readhead",
 							"depts": "Biology, Bioengineering",
 							"email": "readhead@caltech.edu",
@@ -283,7 +285,7 @@
 			"link": "http://www.bbe.caltech.edu/research/neuroscience",
 			"faculty": [
 					{
-						"time": "1/21/2020 17:23:50",
+						"lastupdate": "1/21/2020",
 						"name": "Elizabeth Hong",
 						"depts": "Biology, Neuroscience",
 						"email": "ejhong@caltech.edu",
@@ -295,7 +297,7 @@
 						"website": "ejhonglab.org"
 					},
 					{
-						"time": "1/23/2020 15:18:08",
+						"lastupdate": "1/23/2020",
 						"name": "Shinsuke Shimojo",
 						"depts": "Biology, Neuroscience",
 						"email": "sshimojo@caltech.edu",
@@ -307,7 +309,7 @@
 						"website": "https://neuro.caltech.edu"
 					},
 					{
-						"time": "1/25/2020 10:34:52",
+						"lastupdate": "1/25/2020",
 						"name": "Markus Meister",
 						"depts": "Biology, Neuroscience",
 						"email": "meister@caltech.edu",
@@ -340,7 +342,7 @@
 			"name": "Chemistry",
 			"faculty": [
 					{
-				    "time": "1/21/2020 14:42:54",
+				    "lastupdate": "1/21/2020",
 				    "name": "Lu Wei",
 				    "depts": "Chemistry",
 				    "email": "lwei@caltech.edu",
@@ -352,7 +354,7 @@
 				    "website": "https://www.weilab.caltech.edu"
 				  },
 				  {
-				    "time": "1/21/2020 15:27:38",
+				    "lastupdate": "1/21/2020",
 				    "name": "Bill Goddard",
 				    "depts": "Chemistry",
 				    "email": "wagoddard3@gmail.com or wag@caltech.edu",
@@ -364,7 +366,7 @@
 				    "website": ""
 				  },
 				  {
-				    "time": "1/21/2020 13:34:20",
+				    "lastupdate": "1/21/2020",
 				    "name": "Scott Cushing",
 				    "depts": "Chemistry, Physics",
 				    "email": "scushing@caltech.edu",
@@ -393,7 +395,7 @@
 			"link": "http://www.galcit.caltech.edu/",
 			"faculty": [
 					{
-				    "time": "1/21/2020 14:33:37",
+				    "lastupdate": "1/21/2020",
 				    "name": "Beverley McKeon",
 				    "depts": "Aeronautics",
 				    "email": "mckeon@caltech.edu",
@@ -411,7 +413,7 @@
 			"link": "http://aphms.caltech.edu/",
 			"faculty": [
 					{
-				    "time": "1/21/2020 13:45:25",
+				    "lastupdate": "1/21/2020",
 				    "name": "Brent Fultz",
 				    "depts": "Materials Science",
 				    "email": "btf@caltech.edu",
@@ -429,7 +431,7 @@
 			"link": "http://cms.caltech.edu/",
 			"faculty": [
 						{
-					    "time": "1/21/2020 17:18:49",
+					    "lastupdate": "1/21/2020",
 					    "name": "Oscar P Bruno",
 					    "depts": "Applied and Computational Mathematics",
 					    "email": "obruno@caltech.du",
@@ -441,7 +443,7 @@
 					    "website": ""
 					  },
 						{
-					    "time": "1/22/2020 11:01:55",
+					    "lastupdate": "1/22/2020",
 					    "name": "Adam Wierman",
 					    "depts": "Computer Science",
 					    "email": "adamw@caltech.edu",
@@ -459,7 +461,7 @@
 			"link":"http://ee.caltech.edu/",
 			"faculty": [
 						{
-					    "time": "1/21/2020 18:40:32",
+					    "lastupdate": "1/21/2020",
 					    "name": "Steven Low",
 					    "depts": "Electrical Engineering",
 					    "email": "slow@caltech.edu",
@@ -471,7 +473,7 @@
 					    "website": "netlab.caltech.edu"
 					  },
 					  {
-					    "time": "1/18/2020 14:10:18",
+					    "lastupdate": "1/18/2020",
 					    "name": "Lihong Wang",
 					    "depts": "Electrical Engineering, Medical Engineering",
 					    "email": "lvw@caltech.edu",
@@ -483,7 +485,7 @@
 					    "website": "http://coilab.caltech.edu/"
 					  },
 					  {
-					    "time": "1/26/2020 15:00:30",
+					    "lastupdate": "1/26/2020",
 					    "name": "Azita Emami",
 					    "depts": "Electrical Engineering, Medical Engineering",
 					    "email": "azita@caltech.edu",
@@ -495,7 +497,7 @@
 					    "website": "mics.caltech.edu"
 					  },
 					  {
-                        "time": "2/27/2020 13:13:22",
+                        "lastupdate": "2/27/2020",
                         "name": "Michelle Effros",
                         "depts": "Electrical Engineering",
                         "email": "effros@caltech.edu",
@@ -521,7 +523,7 @@
 			"link":"http://mce.caltech.edu/",
 			"faculty": [
 					{
-				    "time": "1/21/2020 15:45:18",
+				    "lastupdate": "1/21/2020",
 				    "name": "Guillaume Blanquart",
 				    "depts": "Mechanical Engineering",
 				    "email": "g.blanquart@caltech.edu",
@@ -545,7 +547,7 @@
 			"link": "http://web.gps.caltech.edu/options/geology/",
 			"faculty": [
 					{
-				    "time": "1/24/2020 14:26:10",
+				    "lastupdate": "1/24/2020",
 				    "name": "Michael Lamb",
 				    "depts": "Geology",
 				    "email": "mpl@caltech.edu",
@@ -557,7 +559,7 @@
 				    "website": "https://esp.gps.caltech.edu/"
 				  },
 				  {
-				    "time": "1/22/2020 23:42:18",
+				    "lastupdate": "1/22/2020",
 				    "name": "Francois Tissot",
 				    "depts": "Geology, Geochemistry",
 				    "email": "tissot@caltech.edu",
@@ -569,7 +571,7 @@
 				    "website": "https://www.gps.caltech.edu/people/francois-tissot"
 				  },
 				  {
-				    "time": "1/22/2020 23:42:18",
+				    "lastupdate": "1/22/2020",
 				    "name": "John Eiler",
 				    "depts": "Geology, Geochemistry",
 				    "email": "eiler@gps.caltech.edu",
@@ -587,7 +589,7 @@
 			"link": "http://web.gps.caltech.edu/options/geobiology/",
 			"faculty": [
 				{
-				  "time": "2/28/2020 09:12:42",
+				  "lastupdate": "2/28/2020",
 				  "name": "Dianne Newman",
 				  "depts": "Geobiology, Environmental Science and Engineering",
 				  "email": "dkn@caltech.edu",
@@ -605,7 +607,7 @@
 			"link": "http://web.gps.caltech.edu/options/geochemistry/",
 			"faculty": [
 					{
-						"time": "1/22/2020 23:42:18",
+						"lastupdate": "1/22/2020",
 						"name": "Francois Tissot",
 						"depts": "Geology, Geochemistry",
 						"email": "tissot@caltech.edu",
@@ -617,7 +619,7 @@
 						"website": "https://www.gps.caltech.edu/people/francois-tissot"
 					},
 					{
-					    "time": "1/22/2020 23:42:18",
+					    "lastupdate": "1/22/2020",
 					    "name": "John Eiler",
 					    "depts": "Geology, Geochemistry",
 					    "email": "eiler@gps.caltech.edu",
@@ -649,6 +651,7 @@
 			"link": "http://www.ese.caltech.edu/",
 			"faculty": [
 				{
+					"lastupdate": "1/21/2020",
 				    "name": "Andy Thompson",
 				    "depts": "Environmental Science and Engineering",
 				    "email": "andrewt@caltech.edu",
@@ -660,7 +663,7 @@
 				    "website": "http://web.gps.caltech.edu/~andrewt/"
 				},
 				{
-				  "time": "2/28/2020 09:12:42",
+				  "lastupdate": "2/28/2020",
 				  "name": "Dianne Newman",
 				  "depts": "Geobiology, Environmental Science and Engineering",
 				  "email": "dkn@caltech.edu",
@@ -684,7 +687,7 @@
 			"link": "http://www.hss.caltech.edu/research/humanities-research/research-areas",
 			"faculty": [
 					{
-				    "time": "1/21/2020 15:44:24",
+				    "lastupdate": "1/21/2020",
 				    "name": "Diana Kormos Buchwald",
 				    "depts": "History",
 				    "email": "diana_buchwald@caltech.edu",
@@ -702,7 +705,7 @@
 			"link": "http://www.hss.caltech.edu/research/social-sciences-research/research-areas",
 			"faculty": [
 					{
-				    "time": "1/21/2020 14:12:16",
+				    "lastupdate": "1/21/2020",
 				    "name": "Robert Sherman",
 				    "depts": "Economics",
 				    "email": "sherman@amdg.caltech.edu",
@@ -714,7 +717,7 @@
 				    "website": "https://www.hss.caltech.edu/people/robert-p-bob-sherman"
 				  },
 					{
-				    "time": "2/9/2020 9:09:08",
+				    "lastupdate": "2/9/2020",
 				    "name": "Kim Border",
 				    "depts": "Economics",
 				    "email": "kcborder@caltech.edu",
@@ -726,7 +729,7 @@
 				    "website": ""
 				  },
 					{
-						"time": "1/21/2020 19:23:12",
+						"lastupdate": "1/21/2020",
 						"name": "Ralph Adolphs",
 						"depts": "Biology, Psychology",
 						"email": "radolphs@caltech.edu",
@@ -750,7 +753,7 @@
 			"link": "http://www.pma.caltech.edu/research-and-academics/physics/physics-research",
 			"faculty": [
 					{
-			    "time": "1/21/2020 12:06:20",
+			    "lastupdate": "1/21/2020",
 			    "name": "Paul Bellan",
 			    "depts": "Physics",
 			    "email": "pbellan@caltech.edu",
@@ -762,7 +765,7 @@
 			    "website": "http://www.bellanplasmagroup.caltech.edu"
 			  },
 			  {
-			    "time": "1/27/2020 11:18:29",
+			    "lastupdate": "1/27/2020",
 			    "name": "Rana Adhikari",
 			    "depts": "Physics",
 			    "email": "rana@caltech.edu",
@@ -774,7 +777,7 @@
 			    "website": "https://caltechexperimentalgravity.github.io"
 			  },
 			  {
-			    "time": "1/21/2020 21:40:39",
+			    "lastupdate": "1/21/2020",
 			    "name": "Jim Fuller",
 			    "depts": "Physics, Astronomy",
 			    "email": "jfuller@caltech.edu",
@@ -786,7 +789,7 @@
 			    "website": ""
 			  },
 				{
-					"time": "1/21/2020 13:34:20",
+					"lastupdate": "1/21/2020",
 					"name": "Scott Cushing",
 					"depts": "Chemistry, Physics",
 					"email": "scushing@caltech.edu",
@@ -804,7 +807,7 @@
 			"link": "http://www.pma.caltech.edu/research-and-academics/mathematics/math-research",
 			"faculty": [
 					{
-				    "time": "1/15/2020 11:22:20",
+				    "lastupdate": "1/15/2020",
 				    "name": "Matthias Flach",
 				    "depts": "Mathematics",
 				    "email": "flach@caltech.edu",
@@ -822,7 +825,7 @@
 			"link": "http://www.astro.caltech.edu/research/",
 			"faculty": [
 					{
-				    "time": "1/21/2020 14:29:05",
+				    "lastupdate": "1/21/2020",
 				    "name": "Lynne Hillenbrand",
 				    "depts": "Astronomy",
 				    "email": "lah@astro.caltech.edu",
@@ -834,7 +837,7 @@
 				    "website": ""
 				  },
 				  {
-				    "time": "1/21/2020 20:37:28",
+				    "lastupdate": "1/21/2020",
 				    "name": "Evan Kirby",
 				    "depts": "Astronomy",
 				    "email": "enk@astro.caltech.edu",
@@ -846,7 +849,7 @@
 				    "website": "https://galacticarchaeology.caltech.edu/"
 				  },
 				  {
-				    "time": "1/21/2020 14:01:34",
+				    "lastupdate": "1/21/2020",
 				    "name": "Philip Hopkins",
 				    "depts": "Astrophysics",
 				    "email": "phopkins@caltech.edu",
@@ -858,7 +861,7 @@
 				    "website": "http://www.tapir.caltech.edu/~phopkins"
 				  },
 					{
-						"time": "1/21/2020 21:40:39",
+						"lastupdate": "1/21/2020",
 						"name": "Jim Fuller",
 						"depts": "Physics, Astronomy",
 						"email": "jfuller@caltech.edu",
