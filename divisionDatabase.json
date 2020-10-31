@@ -85,6 +85,32 @@
                    "website": "https://www.its.caltech.edu/~zinnlab/index.html"
                 },
                 {
+                    "lastupdate": "10/12/2020",
+                    "name": "David Prober",
+                    "depts": "Biology, Neuroscience",
+                    "email": "dprober@caltech.edu",
+                    "accepting": "Yes",
+                    "studentYears": "Sophomore, Junior, Senior",
+                    "requirements": "Biology or related field major",
+                    "students": "Sarah Hou",
+                    "remote": "Yes",
+                    "opportunities": "Research opportunities include working with graduate students and postdocs to study genes and neurons that regulate sleep. Projects involve molecular and behavioral neuroscience, genetics, and molecular biology.",
+                    "website": "proberlab.caltech.edu"
+                },
+                {
+                    "lastupdate": "10/12/2020",
+                    "name": "Shinsuke Shimojo",
+                    "depts": "Biology, Neuroscience",
+                    "email": "sshimojo@caltech.edu",
+                    "accepting": "Yes",
+                    "studentYears": "Sophomore, Junior, Senior",
+                    "requirements": "Some neuroscience, bioengineering, psychology related courses, ability of coding in Matlab, Python or C++.",
+                    "students": "Lily Z. Kitagawa, Albert J. Zhai, Anthony Pinechi, Steve Guo, Sara Adams, Ishani Ganguly, Jessica Ye, Justin Hyon, Josie Zhang",
+                    "remote": "Yes",
+                    "opportunities": "Assisting in the coding, running, and analyzing of human psychophysics experiments, including implicit sensation, multisensory perception, decision-making, and action. Current studies include human magnetic sensation, individual and team flow, visual preference decision-making, perception and action in the extreme periphery of the visual field, implicit cognitive interference by attention, intrinsic tempo of behavior and brain, and multisensory perception in the blind and those with low vision.",
+                    "website": "https://neuro.caltech.edu"
+                },
+                {
                     "lastupdate": "1/22/2020",
                     "name": "Justin Bois",
                     "depts": "Bioengineering, Biology",
@@ -171,18 +197,6 @@
                     "website": "Wormlab@caltech.edu"
                 },
                 {
-                    "lastupdate": "1/23/2020",
-                    "name": "David Prober",
-                    "depts": "Biology",
-                    "email": "dprober@caltech.edu",
-                    "accepting": "Yes",
-                    "studentYears": "Sophomore, Junior, Senior",
-                    "requirements": "Biology or related field major",
-                    "students": "Sarah Hou",
-                    "opportunities": "Research opportunities include working with graduate students and postdocs to study genes and neurons that regulate sleep. Projects involve molecular and behavioral neuroscience, genetics, and molecular biology.",
-                    "website": "proberlab.caltech.edu"
-                },
-                {
                     "lastupdate": "1/22/2020",
                     "name": "Carol Readhead",
                     "depts": "Biology, Bioengineering",
@@ -193,18 +207,6 @@
                     "students": "Sumner Blue, George Daghlian",
                     "opportunities": "Histology,  immunohistochemistry and imaging of embryos.  Analysis of images",
                     "website": ""
-                },
-                {
-                    "lastupdate": "1/23/2020",
-                    "name": "Shinsuke Shimojo",
-                    "depts": "Biology, Neuroscience",
-                    "email": "sshimojo@caltech.edu",
-                    "accepting": "Yes",
-                    "studentYears": "Sophomore, Junior, Senior",
-                    "requirements": "Some neuroscience, bioengineering, psychology related courses, ability of coding in Matlab, Python or C++.",
-                    "students": "Lily Kitagawa, Steve Guo, Ishani Ganguly, Sara Adams, Anthony Pineci",
-                    "opportunities": "Assisting human psychophysics (sensation, decision, action) experiments, in coding, running, and analyzing. Human magnetic sensation, Individual and Team flow, visual preference decision, perception and action in the extreme periphery of visual field, etc.",
-                    "website": "https://neuro.caltech.edu"
                 },
                 {
                     "lastupdate": "3/9/2020",
