@@ -6,10 +6,23 @@
             "name": "Biochemistry, Structural, and Molecular Cell Biology",
             "link": "http://www.bbe.caltech.edu/research/biochemistry-structural-and-molecular-cell-biology",
             "faculty": [
+            	{
+				   "lastupdate": "11/10/2020",
+				   "name": "Rustem Ismagilov",
+				   "email": "rustem.admin@caltech.edu",
+				   "depts": "BBE: Biochemistry Structural and Molecular Cell Biology, BBE: Biological Engineering, BBE: Neuroscience, BBE: Systems Biology, CCE: Biochemistry and Molecular Biophysics, CCE: Chemistry, CCE: Chemical Engineering",
+				   "accepting": "Yes",
+				   "studentYears": "Freshman, Sophomore, Junior, Senior",
+				   "requirements": "Excellent attention to detail, willingness to learn, motivation to help with Covid-19 project. (Students will not interact with infectious samples.)",
+				   "students": "Jenny Ji (current)",
+				   "remote": "Maybe",
+				   "opportunities": "We need a highly detailed, careful student to help with labeling and the preparation of materials/reagents for our active Covid-19 community research project. (Students will not interact with infectious samples.)",
+				   "website": "http://covid-study.caltech.edu and https://ismagilovlab.caltech.edu/"
+				},
                 {
                    "lastupdate": "10/12/2020",
                    "name": "Bruce Hay",
-                   "depts": "BBE: Biochemistry, Structural, and Molecular Cell Biology, BBE: Biological Engineering, BBE: Systems Biology",
+                   "depts": "BBE: Biochemistry Structural and Molecular Cell Biology, BBE: Biological Engineering, BBE: Systems Biology",
                    "email": "haybruce@caltech.edu",
                    "accepting": "Yes",
                    "studentYears": "Freshman, Sophomore, Junior, Senior",
@@ -22,7 +35,7 @@
                 {
                    "lastupdate": "10/12/2020",
                    "name": "David Van Valen",
-                   "depts": "BBE: Biochemistry, Structural, and Molecular Cell Biology, BBE: Biological Engineering, BBE: Systems Biology",
+                   "depts": "BBE: Biochemistry Structural and Molecular Cell Biology, BBE: Biological Engineering, BBE: Systems Biology",
                    "email": "vanvalen@gmail.com",
                    "accepting": "Yes",
                    "studentYears": "Sophomore, Junior, Senior",
@@ -35,7 +48,7 @@
                 {
                    "lastupdate": "10/13/2020",
                    "name": "Elizabeth Hong",
-                   "depts": "BBE: Biochemistry, Structural, and Molecular Cell Biology, BBE: Neuroscience",
+                   "depts": "BBE: Biochemistry Structural and Molecular Cell Biology, BBE: Neuroscience",
                    "email": "ejhong@caltech.edu",
                    "accepting": "Yes",
                    "studentYears": "Freshman, Sophomore, Junior, Senior",
@@ -48,7 +61,7 @@
                 {
                    "lastupdate": "10/23/2020",
                    "name": "Elliot Meyerowitz",
-                   "depts": "BBE: Biochemistry, Structural, and Molecular Cell Biology",
+                   "depts": "BBE: Biochemistry Structural and Molecular Cell Biology",
                    "email": "meyerow@caltech.edu",
                    "accepting": "Yes",
                    "studentYears": "Freshman, Sophomore, Junior, Senior",
@@ -61,7 +74,7 @@
                 {
                    "lastupdate": "10/12/2020",
                    "name": "Joe Parker",
-                   "depts": "BBE: Biochemistry, Structural, and Molecular Cell Biology, BBE: Biological Engineering, BBE: Neuroscience, BBE: Systems Biology, CCE: Biochemistry and Molecular Biophysics",
+                   "depts": "BBE: Biochemistry Structural and Molecular Cell Biology, BBE: Biological Engineering, BBE: Neuroscience, BBE: Systems Biology, CCE: Biochemistry and Molecular Biophysics",
                    "email": "joep@caltech.edu",
                    "accepting": "Yes",
                    "studentYears": "Freshman, Sophomore, Junior, Senior",
@@ -74,7 +87,7 @@
                 {
                    "lastupdate": "10/11/2020",
                    "name": "Kai Zinn",
-                   "depts": "BBE: Biochemistry, Structural, and Molecular Cell Biology, BBE: Neuroscience",
+                   "depts": "BBE: Biochemistry Structural and Molecular Cell Biology, BBE: Neuroscience",
                    "email": "zinnk@caltech.edu",
                    "accepting": "Yes",
                    "studentYears": "Junior, Senior",
@@ -238,10 +251,49 @@
             "name": "Biological Engineering",
             "link": "http://www.bbe.caltech.edu/research/biological-engineering",
             "faculty": [
+            	{
+				   "lastupdate": "11/10/2020",
+				   "name": "Rustem Ismagilov",
+				   "email": "rustem.admin@caltech.edu",
+				   "depts": "BBE: Biochemistry Structural and Molecular Cell Biology, BBE: Biological Engineering, BBE: Neuroscience, BBE: Systems Biology, CCE: Biochemistry and Molecular Biophysics, CCE: Chemistry, CCE: Chemical Engineering",
+				   "accepting": "Yes",
+				   "studentYears": "Freshman, Sophomore, Junior, Senior",
+				   "requirements": "Excellent attention to detail, willingness to learn, motivation to help with Covid-19 project. (Students will not interact with infectious samples.)",
+				   "students": "Jenny Ji (current)",
+				   "remote": "Maybe",
+				   "opportunities": "We need a highly detailed, careful student to help with labeling and the preparation of materials/reagents for our active Covid-19 community research project. (Students will not interact with infectious samples.)",
+				   "website": "http://covid-study.caltech.edu and https://ismagilovlab.caltech.edu/"
+				},
+				{
+				   "lastupdate": "12/7/2020",
+				   "name": "Meyerowitz lab: Ting Li and Eldad Afik",
+				   "email": "eafik@caltech.edu",
+				   "depts": "BBE: Biological Engineering, BBE: Systems Biology",
+				   "accepting": "Yes",
+				   "studentYears": "Freshman, Sophomore, Junior, Senior",
+				   "requirements": "Skills: image and data analysis. Aimed at Physics and/or Electrical Engineering inclined students who are interested in Life Science.",
+				   "students": "Tony J. Liu",
+				   "remote": "Yes",
+				   "opportunities": "We study self-organized macroscopic waves in a giant single-celled organism, their interplay with an external driving force, and the dynamics of regeneration.\n\nThe focus is on Caulerpa, a marine green alga with differentiated organs resembling leaves, stems and roots; while an individual can exceed a meter in size, it is a single multinucleated giant cell. \n\nThis line of research would expand our understanding of intrinsic biological clocks, their interaction with the environment, and their role in anticipatory behaviour.\n\nA project is available, following student interest, computational (remotely), as well as in-lab (subject to Caltech policy), that could include: \n\n* [computational] An image analysis algorithm to computationally dissect the organ-like regions of the organism, and quantify the development of morphology over time.\n\n* [computational; in-lab optional] Development of a computerized reactive spatio-temporal patterned illumination system, involving image analysis and illumination pattern design to be projected  on the sample. In-lab, there are optics and mechanical design related sub-projects.\n\n* [in lab] Stress-strain measurements of blade rims to test hypotheses related to transitions in growth pattern.  \n\n* [in lab] Studying morphogenesis and the intrinsic waves under electric perturbations.\n\n",
+				   "website": "http://plantlab.caltech.edu/"
+				},
+				{
+				   "lastupdate": "12/7/2020",
+				   "name": "Meyerowitz lab: Ting Li and Eldad Afik",
+				   "email": "tingli99@caltech.edu ; eafik@caltech.edu",
+				   "depts": "BBE: Biological Engineering, BBE: Systems Biology",
+				   "accepting": "Yes",
+				   "studentYears": "Freshman, Sophomore, Junior, Senior",
+				   "requirements": "Image and Data Analysis. The project is meant for Physics and/or Electrical Engineering inclined students who are interested in Life Science.",
+				   "students": "Tony J. Liu",
+				   "remote": "Yes",
+				   "opportunities": "Title: Relating Collective Tissue Phenomena to the Underlying Calcium Dynamics in Single Cells in a Plant Stem Cell Niche\n\nLiving Cells can exhibit measurable variation of ionic content at various timescales, from seconds to hours and days. These variations are often associated with cell-to-cell signalling and response, which are at the basis of communication and computation at the tissue level. Calcium ions (Ca2+) are frequently studied as a messenger, and are also known to play a role in the mechanical properties of cells, which in turn play a role in morphogenesis --- the generation of form.\n\nThe Shoot Apical Meristem (SAM) is the stem cell niche in land plants, from which all above-ground organs originate, namely leaves, flowers and the extension of the stem itself. Using microscopy time-lapse fluorescent imaging, and a fluorescent reporter for Ca2+ concentrations, our research group has identified and characterized three main types of Ca2+ signal patterns in the SAM: (1) single cell spikes, or twinkling (2) spontaneous global tissue oscillations, and (3) an inducible global wave-like propagation of Ca2+ cellular concentration. Studying the temporal variation of Ca2+ at single cell level throughout the tissue would allow us to further understand  these modes of Ca2+ signals, and the role they play in tissue and organismal dynamics.\n\nThe proposed project is of computational nature, primarily image and data analysis. A successful reduction of the time-lapse imaging data to temporal traces of cellular Ca2+ level would allow quantitative:\n\n* comparison of single cell temporal pattern when twinkling, oscillation, and the stimulated wave, as well as exploring the effects of one mode over the statistics of the other; and\n* study cell-cell correlations, potentially identifying spatio-temporal patterns related to cellular and regional states; this may also open the path to causal structure inference.\n\n",
+				   "website": "http://plantlab.caltech.edu/"
+				},
                 {
                    "lastupdate": "10/12/2020",
                    "name": "David Van Valen",
-                   "depts": "BBE: Biochemistry, Structural, and Molecular Cell Biology, BBE: Biological Engineering, BBE: Systems Biology",
+                   "depts": "BBE: Biochemistry Structural and Molecular Cell Biology, BBE: Biological Engineering, BBE: Systems Biology",
                    "email": "vanvalen@gmail.com",
                    "accepting": "Yes",
                    "studentYears": "Sophomore, Junior, Senior",
@@ -254,7 +306,7 @@
                 {
                    "lastupdate": "10/12/2020",
                    "name": "Bruce Hay",
-                   "depts": "BBE: Biochemistry, Structural, and Molecular Cell Biology, BBE: Biological Engineering, BBE: Systems Biology",
+                   "depts": "BBE: Biochemistry Structural and Molecular Cell Biology, BBE: Biological Engineering, BBE: Systems Biology",
                    "email": "haybruce@caltech.edu",
                    "accepting": "Yes",
                    "studentYears": "Freshman, Sophomore, Junior, Senior",
@@ -280,7 +332,7 @@
                 {
                    "lastupdate": "10/12/2020",
                    "name": "Joe Parker",
-                   "depts": "BBE: Biochemistry, Structural, and Molecular Cell Biology, BBE: Biological Engineering, BBE: Neuroscience, BBE: Systems Biology, CCE: Biochemistry and Molecular Biophysics",
+                   "depts": "BBE: Biochemistry Structural and Molecular Cell Biology, BBE: Biological Engineering, BBE: Neuroscience, BBE: Systems Biology, CCE: Biochemistry and Molecular Biophysics",
                    "email": "joep@caltech.edu",
                    "accepting": "Yes",
                    "studentYears": "Freshman, Sophomore, Junior, Senior",
@@ -356,10 +408,23 @@
             "name": "Neuroscience",
             "link": "http://www.bbe.caltech.edu/research/neuroscience",
             "faculty": [
+            	{
+				   "lastupdate": "11/10/2020",
+				   "name": "Rustem Ismagilov",
+				   "email": "rustem.admin@caltech.edu",
+				   "depts": "BBE: Biochemistry Structural and Molecular Cell Biology, BBE: Biological Engineering, BBE: Neuroscience, BBE: Systems Biology, CCE: Biochemistry and Molecular Biophysics, CCE: Chemistry, CCE: Chemical Engineering",
+				   "accepting": "Yes",
+				   "studentYears": "Freshman, Sophomore, Junior, Senior",
+				   "requirements": "Excellent attention to detail, willingness to learn, motivation to help with Covid-19 project. (Students will not interact with infectious samples.)",
+				   "students": "Jenny Ji (current)",
+				   "remote": "Maybe",
+				   "opportunities": "We need a highly detailed, careful student to help with labeling and the preparation of materials/reagents for our active Covid-19 community research project. (Students will not interact with infectious samples.)",
+				   "website": "http://covid-study.caltech.edu and https://ismagilovlab.caltech.edu/"
+				},
                 {
                    "lastupdate": "10/13/2020",
                    "name": "Elizabeth Hong",
-                   "depts": "BBE: Biochemistry, Structural, and Molecular Cell Biology, BBE: Neuroscience",
+                   "depts": "BBE: Biochemistry Structural and Molecular Cell Biology, BBE: Neuroscience",
                    "email": "ejhong@caltech.edu",
                    "accepting": "Yes",
                    "studentYears": "Freshman, Sophomore, Junior, Senior",
@@ -372,7 +437,7 @@
                 {
                    "lastupdate": "10/12/2020",
                    "name": "Joe Parker",
-                   "depts": "BBE: Biochemistry, Structural, and Molecular Cell Biology, BBE: Biological Engineering, BBE: Neuroscience, BBE: Systems Biology, CCE: Biochemistry and Molecular Biophysics",
+                   "depts": "BBE: Biochemistry Structural and Molecular Cell Biology, BBE: Biological Engineering, BBE: Neuroscience, BBE: Systems Biology, CCE: Biochemistry and Molecular Biophysics",
                    "email": "joep@caltech.edu",
                    "accepting": "Yes",
                    "studentYears": "Freshman, Sophomore, Junior, Senior",
@@ -385,7 +450,7 @@
                 {
                    "lastupdate": "10/11/2020",
                    "name": "Kai Zinn",
-                   "depts": "BBE: Biochemistry, Structural, and Molecular Cell Biology, BBE: Neuroscience",
+                   "depts": "BBE: Biochemistry Structural and Molecular Cell Biology, BBE: Neuroscience",
                    "email": "zinnk@caltech.edu",
                    "accepting": "Yes",
                    "studentYears": "Junior, Senior",
@@ -425,10 +490,49 @@
             "name": "Systems Biology",
             "link": "http://www.bbe.caltech.edu/research/systems-biology",
             "faculty": [
+            	{
+				   "lastupdate": "11/10/2020",
+				   "name": "Rustem Ismagilov",
+				   "email": "rustem.admin@caltech.edu",
+				   "depts": "BBE: Biochemistry Structural and Molecular Cell Biology, BBE: Biological Engineering, BBE: Neuroscience, BBE: Systems Biology, CCE: Biochemistry and Molecular Biophysics, CCE: Chemistry, CCE: Chemical Engineering",
+				   "accepting": "Yes",
+				   "studentYears": "Freshman, Sophomore, Junior, Senior",
+				   "requirements": "Excellent attention to detail, willingness to learn, motivation to help with Covid-19 project. (Students will not interact with infectious samples.)",
+				   "students": "Jenny Ji (current)",
+				   "remote": "Maybe",
+				   "opportunities": "We need a highly detailed, careful student to help with labeling and the preparation of materials/reagents for our active Covid-19 community research project. (Students will not interact with infectious samples.)",
+				   "website": "http://covid-study.caltech.edu and https://ismagilovlab.caltech.edu/"
+				},
+				{
+				   "lastupdate": "12/7/2020",
+				   "name": "Meyerowitz lab: Ting Li and Eldad Afik",
+				   "email": "eafik@caltech.edu",
+				   "depts": "BBE: Biological Engineering, BBE: Systems Biology",
+				   "accepting": "Yes",
+				   "studentYears": "Freshman, Sophomore, Junior, Senior",
+				   "requirements": "Skills: image and data analysis. Aimed at Physics and/or Electrical Engineering inclined students who are interested in Life Science.",
+				   "students": "Tony J. Liu",
+				   "remote": "Yes",
+				   "opportunities": "We study self-organized macroscopic waves in a giant single-celled organism, their interplay with an external driving force, and the dynamics of regeneration.\n\nThe focus is on Caulerpa, a marine green alga with differentiated organs resembling leaves, stems and roots; while an individual can exceed a meter in size, it is a single multinucleated giant cell. \n\nThis line of research would expand our understanding of intrinsic biological clocks, their interaction with the environment, and their role in anticipatory behaviour.\n\nA project is available, following student interest, computational (remotely), as well as in-lab (subject to Caltech policy), that could include: \n\n* [computational] An image analysis algorithm to computationally dissect the organ-like regions of the organism, and quantify the development of morphology over time.\n\n* [computational; in-lab optional] Development of a computerized reactive spatio-temporal patterned illumination system, involving image analysis and illumination pattern design to be projected  on the sample. In-lab, there are optics and mechanical design related sub-projects.\n\n* [in lab] Stress-strain measurements of blade rims to test hypotheses related to transitions in growth pattern.  \n\n* [in lab] Studying morphogenesis and the intrinsic waves under electric perturbations.\n\n",
+				   "website": "http://plantlab.caltech.edu/"
+				},
+				{
+				   "lastupdate": "12/7/2020",
+				   "name": "Meyerowitz lab: Ting Li and Eldad Afik",
+				   "email": "tingli99@caltech.edu ; eafik@caltech.edu",
+				   "depts": "BBE: Biological Engineering, BBE: Systems Biology",
+				   "accepting": "Yes",
+				   "studentYears": "Freshman, Sophomore, Junior, Senior",
+				   "requirements": "Image and Data Analysis. The project is meant for Physics and/or Electrical Engineering inclined students who are interested in Life Science.",
+				   "students": "Tony J. Liu",
+				   "remote": "Yes",
+				   "opportunities": "Title: Relating Collective Tissue Phenomena to the Underlying Calcium Dynamics in Single Cells in a Plant Stem Cell Niche\n\nLiving Cells can exhibit measurable variation of ionic content at various timescales, from seconds to hours and days. These variations are often associated with cell-to-cell signalling and response, which are at the basis of communication and computation at the tissue level. Calcium ions (Ca2+) are frequently studied as a messenger, and are also known to play a role in the mechanical properties of cells, which in turn play a role in morphogenesis --- the generation of form.\n\nThe Shoot Apical Meristem (SAM) is the stem cell niche in land plants, from which all above-ground organs originate, namely leaves, flowers and the extension of the stem itself. Using microscopy time-lapse fluorescent imaging, and a fluorescent reporter for Ca2+ concentrations, our research group has identified and characterized three main types of Ca2+ signal patterns in the SAM: (1) single cell spikes, or twinkling (2) spontaneous global tissue oscillations, and (3) an inducible global wave-like propagation of Ca2+ cellular concentration. Studying the temporal variation of Ca2+ at single cell level throughout the tissue would allow us to further understand  these modes of Ca2+ signals, and the role they play in tissue and organismal dynamics.\n\nThe proposed project is of computational nature, primarily image and data analysis. A successful reduction of the time-lapse imaging data to temporal traces of cellular Ca2+ level would allow quantitative:\n\n* comparison of single cell temporal pattern when twinkling, oscillation, and the stimulated wave, as well as exploring the effects of one mode over the statistics of the other; and\n* study cell-cell correlations, potentially identifying spatio-temporal patterns related to cellular and regional states; this may also open the path to causal structure inference.\n\n",
+				   "website": "http://plantlab.caltech.edu/"
+				},
                 {
                    "lastupdate": "10/12/2020",
                    "name": "Bruce Hay",
-                   "depts": "BBE: Biochemistry, Structural, and Molecular Cell Biology, BBE: Biological Engineering, BBE: Systems Biology",
+                   "depts": "BBE: Biochemistry Structural and Molecular Cell Biology, BBE: Biological Engineering, BBE: Systems Biology",
                    "email": "haybruce@caltech.edu",
                    "accepting": "Yes",
                    "studentYears": "Freshman, Sophomore, Junior, Senior",
@@ -441,7 +545,7 @@
                 {
                    "lastupdate": "10/12/2020",
                    "name": "David Van Valen",
-                   "depts": "BBE: Biochemistry, Structural, and Molecular Cell Biology, BBE: Biological Engineering, BBE: Systems Biology",
+                   "depts": "BBE: Biochemistry Structural and Molecular Cell Biology, BBE: Biological Engineering, BBE: Systems Biology",
                    "email": "vanvalen@gmail.com",
                    "accepting": "Yes",
                    "studentYears": "Sophomore, Junior, Senior",
@@ -454,7 +558,7 @@
                 {
                    "lastupdate": "10/12/2020",
                    "name": "Joe Parker",
-                   "depts": "BBE: Biochemistry, Structural, and Molecular Cell Biology, BBE: Biological Engineering, BBE: Neuroscience, BBE: Systems Biology, CCE: Biochemistry and Molecular Biophysics",
+                   "depts": "BBE: Biochemistry Structural and Molecular Cell Biology, BBE: Biological Engineering, BBE: Neuroscience, BBE: Systems Biology, CCE: Biochemistry and Molecular Biophysics",
                    "email": "joep@caltech.edu",
                    "accepting": "Yes",
                    "studentYears": "Freshman, Sophomore, Junior, Senior",
@@ -475,10 +579,23 @@
         {
             "name": "Biochemistry and Molecular Biophysics",
             "faculty": [
+            	{
+				   "lastupdate": "11/10/2020",
+				   "name": "Rustem Ismagilov",
+				   "email": "rustem.admin@caltech.edu",
+				   "depts": "BBE: Biochemistry Structural and Molecular Cell Biology, BBE: Biological Engineering, BBE: Neuroscience, BBE: Systems Biology, CCE: Biochemistry and Molecular Biophysics, CCE: Chemistry, CCE: Chemical Engineering",
+				   "accepting": "Yes",
+				   "studentYears": "Freshman, Sophomore, Junior, Senior",
+				   "requirements": "Excellent attention to detail, willingness to learn, motivation to help with Covid-19 project. (Students will not interact with infectious samples.)",
+				   "students": "Jenny Ji (current)",
+				   "remote": "Maybe",
+				   "opportunities": "We need a highly detailed, careful student to help with labeling and the preparation of materials/reagents for our active Covid-19 community research project. (Students will not interact with infectious samples.)",
+				   "website": "http://covid-study.caltech.edu and https://ismagilovlab.caltech.edu/"
+				},
                 {
                    "lastupdate": "10/12/2020",
                    "name": "Joe Parker",
-                   "depts": "BBE: Biochemistry, Structural, and Molecular Cell Biology, BBE: Biological Engineering, BBE: Neuroscience, BBE: Systems Biology, CCE: Biochemistry and Molecular Biophysics",
+                   "depts": "BBE: Biochemistry Structural and Molecular Cell Biology, BBE: Biological Engineering, BBE: Neuroscience, BBE: Systems Biology, CCE: Biochemistry and Molecular Biophysics",
                    "email": "joep@caltech.edu",
                    "accepting": "Yes",
                    "studentYears": "Freshman, Sophomore, Junior, Senior",
@@ -493,6 +610,19 @@
         {
             "name": "Chemistry",
             "faculty": [
+            	{
+				   "lastupdate": "11/10/2020",
+				   "name": "Rustem Ismagilov",
+				   "email": "rustem.admin@caltech.edu",
+				   "depts": "BBE: Biochemistry Structural and Molecular Cell Biology, BBE: Biological Engineering, BBE: Neuroscience, BBE: Systems Biology, CCE: Biochemistry and Molecular Biophysics, CCE: Chemistry, CCE: Chemical Engineering",
+				   "accepting": "Yes",
+				   "studentYears": "Freshman, Sophomore, Junior, Senior",
+				   "requirements": "Excellent attention to detail, willingness to learn, motivation to help with Covid-19 project. (Students will not interact with infectious samples.)",
+				   "students": "Jenny Ji (current)",
+				   "remote": "Maybe",
+				   "opportunities": "We need a highly detailed, careful student to help with labeling and the preparation of materials/reagents for our active Covid-19 community research project. (Students will not interact with infectious samples.)",
+				   "website": "http://covid-study.caltech.edu and https://ismagilovlab.caltech.edu/"
+				},
                 {
                    "lastupdate": "10/13/2020",
                    "name": "Theodor Agapie",
@@ -547,6 +677,19 @@
         {
             "name": "Chemical Engineering",
             "faculty": [
+            	{
+				   "lastupdate": "11/10/2020",
+				   "name": "Rustem Ismagilov",
+				   "email": "rustem.admin@caltech.edu",
+				   "depts": "BBE: Biochemistry Structural and Molecular Cell Biology, BBE: Biological Engineering, BBE: Neuroscience, BBE: Systems Biology, CCE: Biochemistry and Molecular Biophysics, CCE: Chemistry, CCE: Chemical Engineering",
+				   "accepting": "Yes",
+				   "studentYears": "Freshman, Sophomore, Junior, Senior",
+				   "requirements": "Excellent attention to detail, willingness to learn, motivation to help with Covid-19 project. (Students will not interact with infectious samples.)",
+				   "students": "Jenny Ji (current)",
+				   "remote": "Maybe",
+				   "opportunities": "We need a highly detailed, careful student to help with labeling and the preparation of materials/reagents for our active Covid-19 community research project. (Students will not interact with infectious samples.)",
+				   "website": "http://covid-study.caltech.edu and https://ismagilovlab.caltech.edu/"
+				},
                 {
                    "lastupdate": "10/13/2020",
                    "name": "Theodor Agapie",
@@ -616,6 +759,32 @@
             "name":"Applied Physics and Material Science",
             "link": "http://aphms.caltech.edu/",
             "faculty": [
+            	{
+				   "lastupdate": "11/20/2020",
+				   "name": "Austin Minnich",
+				   "email": "aminnich@caltech.edu",
+				   "depts": "EAS: Applied Physics and Material Science",
+				   "accepting": "Yes",
+				   "studentYears": "Sophomore, Junior, Senior",
+				   "requirements": "",
+				   "students": "Jin Ming Koh",
+				   "remote": "Yes",
+				   "opportunities": "Quantum simulation on near-term quantum hardware",
+				   "website": "minnich.caltech.edu"
+				},
+				{
+				   "lastupdate": "11/22/2020",
+				   "name": "Marco Bernardi",
+				   "email": "bmarco@caltech.edu",
+				   "depts": "EAS: Applied Physics and Material Science",
+				   "accepting": "Yes",
+				   "studentYears": "Junior, Senior",
+				   "requirements": "",
+				   "students": "",
+				   "remote": "Yes",
+				   "opportunities": "Exploring ideas at the intersection of information theory (both classical and quantum) and computational materials physics",
+				   "website": "bernardi.caltech.edu"
+				},
                 {
                    "lastupdate": "10/13/2020",
                    "name": "Chiara Daraio",
